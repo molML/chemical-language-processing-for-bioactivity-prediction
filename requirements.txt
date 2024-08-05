@@ -1,0 +1,6 @@
+keras>=3
+rdkit
+selfies
+scikit-learn
+pandas
+torch  # keras backend
