@@ -38,9 +38,10 @@ Perfect! The bag is packed. Now we go! :oncoming_automobile:
 
 Remember we said that deepclpeers (tiny wordplay :wink:) are very friendly? Thanks to our friendliness, we make things easy for others. So we made training a bioactivity prediction models as easy as possible:
 
-```python 
+```python
+import keras 
 from deepclp import models, training
-
+keras.utils.set_random_seed(42)  # fix the randomness for reproducibility
 # read the data
 training_molecules, training_labels = training.csv_to_matrix("data/smiles_classification/train.csv", "smiles", maxlen=85)
 validation_molecules, validation_labels = training.csv_to_matrix("data/smiles_classification/val.csv", "smiles", maxlen=85)
