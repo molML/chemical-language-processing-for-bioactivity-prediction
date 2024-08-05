@@ -89,7 +89,7 @@ scores = training.evaluate_predictor(model=cnn, X_test=test_molecules, y_test=te
 If you need the predictions on the test set, not the scores, then you can use the following code:
 
 ```python
-predictions = cnn.predict(X_test)
+predictions = cnn.predict(test_molecules)
 ```
 
 Done! You are now a hitchhiker in the `deepclp` galaxy :tada:

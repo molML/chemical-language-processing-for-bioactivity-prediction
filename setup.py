@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="hitchhiker",
+    name="deepclp",
     version="0.0.1",
     description="Python package to quickly train bioactivity prediction models using deep chemical language processing.",
     url="https://github.com/molML/hitchhiker-guide-CLP",
