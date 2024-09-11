@@ -16,18 +16,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3075623869895935,
-            "val_rmse_std": 0.001731825179822644,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.30245861411094666,
+            "val_loss_std": 0.012809129616079495,
+            "test_accuracy_mean": 0.9093333333333333,
+            "test_accuracy_std": 0.000484848484848488,
+            "test_balanced_accuracy_mean": 0.5013333333333334,
+            "test_balanced_accuracy_std": 0.002666666666666684,
+            "test_precision_mean": 0.2,
+            "test_precision_std": 0.4,
+            "test_recall_mean": 0.002666666666666667,
+            "test_recall_std": 0.005333333333333334,
+            "test_f1_mean": 0.005263157894736842,
+            "test_f1_std": 0.010526315789473684,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -58,11 +58,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5066666666666667,
+                    "precision": 1.0,
+                    "recall": 0.013333333333333334,
+                    "f1": 0.02631578947368421
                 }
             }
         }
@@ -84,25 +84,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2968840479850769,
-            "val_rmse_std": 0.010592093582113738,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.2991192936897278,
+            "val_loss_std": 0.010554044310151835,
+            "test_accuracy_mean": 0.9103030303030304,
+            "test_accuracy_std": 0.00242424242424244,
+            "test_balanced_accuracy_mean": 0.5102666666666666,
+            "test_balanced_accuracy_std": 0.020533333333333334,
+            "test_precision_mean": 0.14545454545454545,
+            "test_precision_std": 0.2909090909090909,
+            "test_recall_mean": 0.021333333333333336,
+            "test_recall_std": 0.04266666666666667,
+            "test_f1_mean": 0.0372093023255814,
+            "test_f1_std": 0.0744186046511628,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5513333333333333,
+                    "precision": 0.7272727272727273,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.186046511627907
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -152,32 +152,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28802229166030885,
-            "val_rmse_std": 0.010215686194909689,
-            "test_accuracy_mean": 0.9115151515151515,
-            "test_accuracy_std": 0.0030664510644057208,
-            "test_balanced_accuracy_mean": 0.5253333333333334,
-            "test_balanced_accuracy_std": 0.031029734843282905,
-            "test_precision_mean": 0.2678571428571429,
-            "test_precision_std": 0.3292694449033174,
-            "test_recall_mean": 0.05333333333333333,
-            "test_recall_std": 0.06531972647421809,
-            "test_f1_mean": 0.08889986418076305,
-            "test_f1_std": 0.10889085375700555,
+            "val_loss_mean": 0.28793816566467284,
+            "val_loss_std": 0.008197919170050492,
+            "test_accuracy_mean": 0.9124848484848485,
+            "test_accuracy_std": 0.0030084057323614393,
+            "test_balanced_accuracy_mean": 0.5342666666666667,
+            "test_balanced_accuracy_std": 0.01795599559416791,
+            "test_precision_mean": 0.5587012987012987,
+            "test_precision_std": 0.30624070578039814,
+            "test_recall_mean": 0.07200000000000001,
+            "test_recall_std": 0.037333333333333336,
+            "test_f1_mean": 0.12705969793789168,
+            "test_f1_std": 0.06580774603093517,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "balanced_accuracy": 0.536,
+                    "precision": 0.5,
+                    "recall": 0.08,
+                    "f1": 0.13793103448275865
                 },
                 "setup-1": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.5640000000000001,
-                    "precision": 0.7142857142857143,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2247191011235955
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5393333333333333,
+                    "precision": 0.8571428571428571,
+                    "recall": 0.08,
+                    "f1": 0.14634146341463417
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -187,18 +187,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5626666666666666,
-                    "precision": 0.625,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.21978021978021978
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.544,
+                    "precision": 0.6363636363636364,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.1627906976744186
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.5519999999999999,
+                    "precision": 0.8,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.18823529411764706
                 }
             }
         }
@@ -220,25 +220,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29012505412101747,
-            "val_rmse_std": 0.010756480865403954,
-            "test_accuracy_mean": 0.9107878787878787,
-            "test_accuracy_std": 0.0021134055483833705,
-            "test_balanced_accuracy_mean": 0.5177333333333334,
-            "test_balanced_accuracy_std": 0.024620136293512083,
-            "test_precision_mean": 0.28500000000000003,
-            "test_precision_std": 0.35341194094144585,
-            "test_recall_mean": 0.037333333333333336,
-            "test_recall_std": 0.05225578117937447,
-            "test_f1_mean": 0.06395604395604396,
-            "test_f1_std": 0.08700743326188237,
+            "val_loss_mean": 0.2909119188785553,
+            "val_loss_std": 0.011381744136967135,
+            "test_accuracy_mean": 0.9095757575757576,
+            "test_accuracy_std": 0.0016442012080303786,
+            "test_balanced_accuracy_mean": 0.5266666666666666,
+            "test_balanced_accuracy_std": 0.02623314273543635,
+            "test_precision_mean": 0.3941176470588236,
+            "test_precision_std": 0.3727759886530555,
+            "test_recall_mean": 0.058666666666666666,
+            "test_recall_std": 0.058787753826796275,
+            "test_f1_mean": 0.0955280488225356,
+            "test_f1_std": 0.09162420687618555,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.526,
-                    "precision": 0.8,
-                    "recall": 0.05333333333333334,
-                    "f1": 0.1
+                    "balanced_accuracy": 0.52,
+                    "precision": 1.0,
+                    "recall": 0.04,
+                    "f1": 0.07692307692307693
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -248,11 +248,11 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9078787878787878,
+                    "balanced_accuracy": 0.5473333333333333,
+                    "precision": 0.47058823529411764,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.1739130434782609
                 },
                 "setup-3": {
                     "accuracy": 0.9090909090909091,
@@ -262,11 +262,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5626666666666666,
-                    "precision": 0.625,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.21978021978021978
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.566,
+                    "precision": 0.5,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.22680412371134018
                 }
             }
         }
@@ -288,8 +288,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3008772313594818,
-            "val_rmse_std": 0.011069227227722828,
+            "val_loss_mean": 0.3072045624256134,
+            "val_loss_std": 0.001335948091915565,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -356,25 +356,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2912129044532776,
-            "val_rmse_std": 0.011062498139576677,
-            "test_accuracy_mean": 0.9095757575757576,
-            "test_accuracy_std": 0.000969696969696976,
-            "test_balanced_accuracy_mean": 0.5026666666666666,
-            "test_balanced_accuracy_std": 0.005333333333333323,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4000000000000001,
-            "test_recall_mean": 0.005333333333333334,
-            "test_recall_std": 0.010666666666666668,
-            "test_f1_mean": 0.01038961038961039,
-            "test_f1_std": 0.020779220779220776,
+            "val_loss_mean": 0.2942559540271759,
+            "val_loss_std": 0.011572990137436021,
+            "test_accuracy_mean": 0.9088484848484848,
+            "test_accuracy_std": 0.0011876313904403365,
+            "test_balanced_accuracy_mean": 0.5154666666666666,
+            "test_balanced_accuracy_std": 0.028657052651427123,
+            "test_precision_mean": 0.15434782608695652,
+            "test_precision_std": 0.20765137280451396,
+            "test_recall_mean": 0.034666666666666665,
+            "test_recall_std": 0.06287907265360852,
+            "test_f1_mean": 0.05404288297597519,
+            "test_f1_std": 0.09592994041442038,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
-                    "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5726666666666667,
+                    "precision": 0.5217391304347826,
+                    "recall": 0.16,
+                    "f1": 0.24489795918367344
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -391,11 +391,11 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9066666666666666,
+                    "balanced_accuracy": 0.5046666666666667,
+                    "precision": 0.25,
+                    "recall": 0.013333333333333334,
+                    "f1": 0.025316455696202535
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -424,25 +424,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2830661118030548,
-            "val_rmse_std": 0.007881381038577294,
-            "test_accuracy_mean": 0.9124848484848485,
-            "test_accuracy_std": 0.0024722518853783357,
-            "test_balanced_accuracy_mean": 0.5282666666666668,
-            "test_balanced_accuracy_std": 0.022801949234416103,
-            "test_precision_mean": 0.65,
-            "test_precision_std": 0.348209706929603,
-            "test_recall_mean": 0.058666666666666666,
-            "test_recall_std": 0.04814792022738077,
-            "test_f1_mean": 0.10327046752241201,
-            "test_f1_std": 0.07987171986523948,
+            "val_loss_mean": 0.2891075313091278,
+            "val_loss_std": 0.009496862074711744,
+            "test_accuracy_mean": 0.9090909090909092,
+            "test_accuracy_std": 0.0007666127661014302,
+            "test_balanced_accuracy_mean": 0.5072,
+            "test_balanced_accuracy_std": 0.011363880401420005,
+            "test_precision_mean": 0.2909090909090909,
+            "test_precision_std": 0.3958462010377681,
+            "test_recall_mean": 0.016,
+            "test_recall_std": 0.025854292572887086,
+            "test_f1_mean": 0.02851897184822521,
+            "test_f1_std": 0.0450481610395043,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5066666666666667,
                     "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "recall": 0.013333333333333334,
+                    "f1": 0.02631578947368421
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -452,25 +452,25 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5193333333333333,
-                    "precision": 0.75,
-                    "recall": 0.04,
-                    "f1": 0.07594936708860758
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5626666666666666,
-                    "precision": 0.625,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.21978021978021978
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.546,
-                    "precision": 0.875,
-                    "recall": 0.09333333333333334,
-                    "f1": 0.1686746987951807
+                    "accuracy": 0.9078787878787878,
+                    "balanced_accuracy": 0.5293333333333333,
+                    "precision": 0.45454545454545453,
+                    "recall": 0.06666666666666667,
+                    "f1": 0.11627906976744184
                 }
             }
         }
@@ -492,18 +492,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28804815411567686,
-            "val_rmse_std": 0.00465266365584072,
-            "test_accuracy_mean": 0.9095757575757576,
-            "test_accuracy_std": 0.000969696969696976,
-            "test_balanced_accuracy_mean": 0.5026666666666666,
-            "test_balanced_accuracy_std": 0.005333333333333323,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4000000000000001,
-            "test_recall_mean": 0.005333333333333334,
-            "test_recall_std": 0.010666666666666668,
-            "test_f1_mean": 0.01038961038961039,
-            "test_f1_std": 0.02077922077922078,
+            "val_loss_mean": 0.29331870675086974,
+            "val_loss_std": 0.0072276672358252605,
+            "test_accuracy_mean": 0.909090909090909,
+            "test_accuracy_std": 1.1102230246251565e-16,
+            "test_balanced_accuracy_mean": 0.5,
+            "test_balanced_accuracy_std": 0.0,
+            "test_precision_mean": 0.0,
+            "test_precision_std": 0.0,
+            "test_recall_mean": 0.0,
+            "test_recall_std": 0.0,
+            "test_f1_mean": 0.0,
+            "test_f1_std": 0.0,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -520,11 +520,11 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
-                    "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-3": {
                     "accuracy": 0.9090909090909091,
@@ -560,8 +560,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3069492757320404,
-            "val_rmse_std": 0.00078557057238254,
+            "val_loss_mean": 0.3075565040111542,
+            "val_loss_std": 0.0009946894817231622,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -628,25 +628,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2841957151889801,
-            "val_rmse_std": 0.013943619404098958,
-            "test_accuracy_mean": 0.9134545454545455,
-            "test_accuracy_std": 0.004509351572785065,
-            "test_balanced_accuracy_mean": 0.5312,
-            "test_balanced_accuracy_std": 0.03266911555446692,
-            "test_precision_mean": 0.48071895424836597,
-            "test_precision_std": 0.3954604856182475,
-            "test_recall_mean": 0.064,
-            "test_recall_std": 0.06714495099740891,
-            "test_f1_mean": 0.10980685064339438,
-            "test_f1_std": 0.11102201413827935,
+            "val_loss_mean": 0.2918336629867554,
+            "val_loss_std": 0.014765388581994165,
+            "test_accuracy_mean": 0.911030303030303,
+            "test_accuracy_std": 0.0033062258659359864,
+            "test_balanced_accuracy_mean": 0.5238666666666667,
+            "test_balanced_accuracy_std": 0.029563942001476502,
+            "test_precision_mean": 0.44117647058823534,
+            "test_precision_std": 0.39372236542780026,
+            "test_recall_mean": 0.05066666666666667,
+            "test_recall_std": 0.062196820211683206,
+            "test_f1_mean": 0.08502327783476685,
+            "test_f1_std": 0.10161262936956039,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5526666666666666,
-                    "precision": 0.8888888888888888,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.19047619047619047
+                    "balanced_accuracy": 0.5766666666666667,
+                    "precision": 0.7058823529411765,
+                    "recall": 0.16,
+                    "f1": 0.2608695652173913
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -656,18 +656,18 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5193333333333333,
-                    "precision": 0.75,
-                    "recall": 0.04,
-                    "f1": 0.07594936708860758
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5066666666666667,
+                    "precision": 1.0,
+                    "recall": 0.013333333333333334,
+                    "f1": 0.02631578947368421
                 },
                 "setup-3": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.5840000000000001,
-                    "precision": 0.7647058823529411,
-                    "recall": 0.17333333333333334,
-                    "f1": 0.2826086956521739
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.536,
+                    "precision": 0.5,
+                    "recall": 0.08,
+                    "f1": 0.13793103448275865
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -696,32 +696,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28228514790534975,
-            "val_rmse_std": 0.009433106256176346,
-            "test_accuracy_mean": 0.9141818181818182,
-            "test_accuracy_std": 0.004156709866541177,
-            "test_balanced_accuracy_mean": 0.5399999999999999,
-            "test_balanced_accuracy_std": 0.033601587264096115,
-            "test_precision_mean": 0.46562091503267966,
-            "test_precision_std": 0.3852679452491014,
-            "test_recall_mean": 0.08266666666666667,
-            "test_recall_std": 0.06974238309665078,
-            "test_f1_mean": 0.13915804002760523,
-            "test_f1_std": 0.11598482236324108,
+            "val_loss_mean": 0.28510931730270384,
+            "val_loss_std": 0.012510418201825845,
+            "test_accuracy_mean": 0.910060606060606,
+            "test_accuracy_std": 0.0019393939393939517,
+            "test_balanced_accuracy_mean": 0.5293333333333333,
+            "test_balanced_accuracy_std": 0.03622399450333683,
+            "test_precision_mean": 0.21818181818181817,
+            "test_precision_std": 0.26875900907444517,
+            "test_recall_mean": 0.064,
+            "test_recall_std": 0.07883597599517057,
+            "test_f1_mean": 0.09896907216494845,
+            "test_f1_std": 0.12191130308531532,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5706666666666667,
-                    "precision": 0.7333333333333333,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.24444444444444444
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5806666666666667,
+                    "precision": 0.5909090909090909,
+                    "recall": 0.17333333333333334,
+                    "f1": 0.26804123711340205
                 },
                 "setup-1": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5766666666666667,
-                    "precision": 0.7058823529411765,
-                    "recall": 0.16,
-                    "f1": 0.2608695652173913
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -738,11 +738,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5526666666666666,
-                    "precision": 0.8888888888888888,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.19047619047619047
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.566,
+                    "precision": 0.5,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.22680412371134018
                 }
             }
         }
@@ -764,8 +764,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2879002332687378,
-            "val_rmse_std": 0.005420745340526841,
+            "val_loss_mean": 0.29208738207817075,
+            "val_loss_std": 0.007795289012929966,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -832,18 +832,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29912527799606325,
-            "val_rmse_std": 0.015539008420667863,
-            "test_accuracy_mean": 0.9107878787878787,
-            "test_accuracy_std": 0.0033939393939394157,
-            "test_balanced_accuracy_mean": 0.5129333333333334,
-            "test_balanced_accuracy_std": 0.02586666666666666,
-            "test_precision_mean": 0.15384615384615385,
-            "test_precision_std": 0.3076923076923077,
-            "test_recall_mean": 0.026666666666666665,
-            "test_recall_std": 0.05333333333333333,
-            "test_f1_mean": 0.045454545454545456,
-            "test_f1_std": 0.09090909090909091,
+            "val_loss_mean": 0.3024280071258545,
+            "val_loss_std": 0.013000386715959052,
+            "test_accuracy_mean": 0.9103030303030304,
+            "test_accuracy_std": 0.00242424242424244,
+            "test_balanced_accuracy_mean": 0.5150666666666667,
+            "test_balanced_accuracy_std": 0.030133333333333345,
+            "test_precision_mean": 0.12631578947368421,
+            "test_precision_std": 0.25263157894736843,
+            "test_recall_mean": 0.032,
+            "test_recall_std": 0.064,
+            "test_f1_mean": 0.05106382978723404,
+            "test_f1_std": 0.10212765957446808,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -874,11 +874,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5646666666666667,
-                    "precision": 0.7692307692307693,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2272727272727273
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5753333333333334,
+                    "precision": 0.631578947368421,
+                    "recall": 0.16,
+                    "f1": 0.2553191489361702
                 }
             }
         }
@@ -900,53 +900,53 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28450416922569277,
-            "val_rmse_std": 0.01044604021485725,
-            "test_accuracy_mean": 0.9129696969696969,
-            "test_accuracy_std": 0.0024722518853783357,
-            "test_balanced_accuracy_mean": 0.5321333333333333,
-            "test_balanced_accuracy_std": 0.021359983354134155,
-            "test_precision_mean": 0.6333333333333334,
-            "test_precision_std": 0.33730961708462714,
-            "test_recall_mean": 0.06666666666666667,
-            "test_recall_std": 0.04462186808181736,
-            "test_f1_mean": 0.11775945487913034,
-            "test_f1_std": 0.07712960137631776,
+            "val_loss_mean": 0.2886311113834381,
+            "val_loss_std": 0.010986801014523581,
+            "test_accuracy_mean": 0.9149090909090909,
+            "test_accuracy_std": 0.0038636066546689283,
+            "test_balanced_accuracy_mean": 0.5476,
+            "test_balanced_accuracy_std": 0.027931980874179974,
+            "test_precision_mean": 0.5913888888888889,
+            "test_precision_std": 0.30027816322310547,
+            "test_recall_mean": 0.09866666666666665,
+            "test_recall_std": 0.0575654217197944,
+            "test_f1_mean": 0.16786181139122314,
+            "test_f1_std": 0.09490335710851645,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
-                    "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "accuracy": 0.9212121212121213,
+                    "balanced_accuracy": 0.5846666666666667,
+                    "precision": 0.8125,
+                    "recall": 0.17333333333333334,
+                    "f1": 0.2857142857142857
                 },
                 "setup-1": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.5519999999999999,
-                    "precision": 0.8,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.18823529411764706
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5506666666666666,
-                    "precision": 0.6666666666666666,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.1839080459770115
-                },
-                "setup-3": {
                     "accuracy": 0.9139393939393939,
                     "balanced_accuracy": 0.5446666666666666,
                     "precision": 0.7,
                     "recall": 0.09333333333333334,
                     "f1": 0.16470588235294115
                 },
+                "setup-3": {
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5453333333333333,
+                    "precision": 0.7777777777777778,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.16666666666666666
+                },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5633333333333334,
+                    "precision": 0.6666666666666666,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.2222222222222222
                 }
             }
         }
@@ -968,25 +968,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2811823427677155,
-            "val_rmse_std": 0.005088735893532978,
-            "test_accuracy_mean": 0.9119999999999999,
-            "test_accuracy_std": 0.0035628941713210095,
-            "test_balanced_accuracy_mean": 0.5256,
-            "test_balanced_accuracy_std": 0.03158227350904301,
-            "test_precision_mean": 0.2875,
-            "test_precision_std": 0.3526683994916471,
-            "test_recall_mean": 0.05333333333333333,
-            "test_recall_std": 0.06586180818788517,
-            "test_f1_mean": 0.08973095869647593,
-            "test_f1_std": 0.11044908857064598,
+            "val_loss_mean": 0.2887750923633575,
+            "val_loss_std": 0.0074348208272228345,
+            "test_accuracy_mean": 0.910060606060606,
+            "test_accuracy_std": 0.0019393939393939517,
+            "test_balanced_accuracy_mean": 0.5125333333333334,
+            "test_balanced_accuracy_std": 0.02506666666666666,
+            "test_precision_mean": 0.125,
+            "test_precision_std": 0.25,
+            "test_recall_mean": 0.026666666666666665,
+            "test_recall_std": 0.05333333333333333,
+            "test_f1_mean": 0.04395604395604395,
+            "test_f1_std": 0.0879120879120879,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5626666666666666,
+                    "precision": 0.625,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.21978021978021978
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -1003,18 +1003,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.558,
-                    "precision": 0.75,
-                    "recall": 0.12,
-                    "f1": 0.20689655172413793
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.57,
-                    "precision": 0.6875,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.24175824175824173
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -1036,25 +1036,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2849756956100464,
-            "val_rmse_std": 0.005745514193659633,
-            "test_accuracy_mean": 0.9120000000000001,
-            "test_accuracy_std": 0.0022481499383020034,
-            "test_balanced_accuracy_mean": 0.522,
-            "test_balanced_accuracy_std": 0.02246973272847029,
-            "test_precision_mean": 0.7333333333333333,
-            "test_precision_std": 0.38873012632302,
-            "test_recall_mean": 0.04533333333333334,
-            "test_recall_std": 0.04740370355901647,
-            "test_f1_mean": 0.0803503772857537,
-            "test_f1_std": 0.0784189876760383,
+            "val_loss_mean": 0.29191439151763915,
+            "val_loss_std": 0.010254682159021202,
+            "test_accuracy_mean": 0.9086060606060606,
+            "test_accuracy_std": 0.0016442012080303786,
+            "test_balanced_accuracy_mean": 0.5237333333333333,
+            "test_balanced_accuracy_std": 0.029839868930304915,
+            "test_precision_mean": 0.19555555555555554,
+            "test_precision_std": 0.24114951051112066,
+            "test_recall_mean": 0.05333333333333333,
+            "test_recall_std": 0.06746192341692543,
+            "test_f1_mean": 0.08261437908496731,
+            "test_f1_std": 0.10280328974594098,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9103030303030303,
-                    "balanced_accuracy": 0.5066666666666667,
-                    "precision": 1.0,
-                    "recall": 0.013333333333333334,
-                    "f1": 0.02631578947368421
+                    "accuracy": 0.9054545454545454,
+                    "balanced_accuracy": 0.57,
+                    "precision": 0.4444444444444444,
+                    "recall": 0.16,
+                    "f1": 0.23529411764705882
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -1064,25 +1064,25 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
-                    "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5266666666666666,
-                    "precision": 1.0,
-                    "recall": 0.05333333333333334,
-                    "f1": 0.10126582278481014
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5633333333333334,
-                    "precision": 0.6666666666666666,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2222222222222222
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5486666666666666,
+                    "precision": 0.5333333333333333,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.17777777777777778
                 }
             }
         }
@@ -1104,18 +1104,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.295817232131958,
-            "val_rmse_std": 0.014375077385679419,
-            "test_accuracy_mean": 0.9112727272727273,
-            "test_accuracy_std": 0.0043636363636363916,
-            "test_balanced_accuracy_mean": 0.512,
-            "test_balanced_accuracy_std": 0.02400000000000002,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
-            "test_recall_mean": 0.024,
-            "test_recall_std": 0.048,
-            "test_f1_mean": 0.04285714285714285,
-            "test_f1_std": 0.0857142857142857,
+            "val_loss_mean": 0.296692556142807,
+            "val_loss_std": 0.014111586418451644,
+            "test_accuracy_mean": 0.9083636363636364,
+            "test_accuracy_std": 0.001454545454545464,
+            "test_balanced_accuracy_mean": 0.5092,
+            "test_balanced_accuracy_std": 0.018399999999999972,
+            "test_precision_mean": 0.08421052631578947,
+            "test_precision_std": 0.16842105263157894,
+            "test_recall_mean": 0.021333333333333336,
+            "test_recall_std": 0.04266666666666667,
+            "test_f1_mean": 0.03404255319148937,
+            "test_f1_std": 0.06808510638297874,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -1146,11 +1146,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.56,
-                    "precision": 1.0,
-                    "recall": 0.12,
-                    "f1": 0.21428571428571425
+                    "accuracy": 0.9054545454545454,
+                    "balanced_accuracy": 0.5459999999999999,
+                    "precision": 0.42105263157894735,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.17021276595744683
                 }
             }
         }
@@ -1172,53 +1172,53 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28366318345069885,
-            "val_rmse_std": 0.009557700204956564,
-            "test_accuracy_mean": 0.9136969696969697,
-            "test_accuracy_std": 0.003288402416060757,
-            "test_balanced_accuracy_mean": 0.5313333333333333,
-            "test_balanced_accuracy_std": 0.022322883127210775,
-            "test_precision_mean": 0.6921212121212121,
-            "test_precision_std": 0.35727054256920643,
-            "test_recall_mean": 0.064,
-            "test_recall_std": 0.04572380853195266,
-            "test_f1_mean": 0.11464321191635374,
-            "test_f1_std": 0.07960206540366549,
+            "val_loss_mean": 0.28538244366645815,
+            "val_loss_std": 0.011600300242816105,
+            "test_accuracy_mean": 0.9127272727272727,
+            "test_accuracy_std": 0.003833063830507151,
+            "test_balanced_accuracy_mean": 0.55,
+            "test_balanced_accuracy_std": 0.027792884780901122,
+            "test_precision_mean": 0.5063569763569764,
+            "test_precision_std": 0.26979439805337924,
+            "test_recall_mean": 0.10666666666666666,
+            "test_recall_std": 0.05902918298980975,
+            "test_f1_mean": 0.174416193761359,
+            "test_f1_std": 0.09418543990394516,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
-                    "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "accuracy": 0.9175757575757576,
+                    "balanced_accuracy": 0.5646666666666667,
+                    "precision": 0.7692307692307693,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.2272727272727273
                 },
                 "setup-1": {
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.5820000000000001,
+                    "precision": 0.65,
+                    "recall": 0.17333333333333334,
+                    "f1": 0.2736842105263158
+                },
+                "setup-2": {
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.544,
+                    "precision": 0.6363636363636364,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.1627906976744186
+                },
+                "setup-3": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
                 },
-                "setup-2": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5326666666666667,
-                    "precision": 0.8333333333333334,
-                    "recall": 0.06666666666666667,
-                    "f1": 0.1234567901234568
-                },
-                "setup-3": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5513333333333333,
-                    "precision": 0.7272727272727273,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.186046511627907
-                },
                 "setup-4": {
-                    "accuracy": 0.9187878787878788,
+                    "accuracy": 0.9078787878787878,
                     "balanced_accuracy": 0.5593333333333333,
-                    "precision": 0.9,
-                    "recall": 0.12,
-                    "f1": 0.21176470588235294
+                    "precision": 0.47619047619047616,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.20833333333333334
                 }
             }
         }
@@ -1240,18 +1240,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2826531231403351,
-            "val_rmse_std": 0.007730980201716196,
-            "test_accuracy_mean": 0.9115151515151515,
-            "test_accuracy_std": 0.00484848484848488,
-            "test_balanced_accuracy_mean": 0.5145333333333333,
-            "test_balanced_accuracy_std": 0.029066666666666664,
-            "test_precision_mean": 0.18333333333333332,
-            "test_precision_std": 0.36666666666666664,
-            "test_recall_mean": 0.029333333333333333,
-            "test_recall_std": 0.058666666666666666,
-            "test_f1_mean": 0.05057471264367817,
-            "test_f1_std": 0.10114942528735633,
+            "val_loss_mean": 0.28491955399513247,
+            "val_loss_std": 0.010713466726845764,
+            "test_accuracy_mean": 0.9093333333333333,
+            "test_accuracy_std": 0.002699522115311543,
+            "test_balanced_accuracy_mean": 0.5253333333333334,
+            "test_balanced_accuracy_std": 0.03472815060501269,
+            "test_precision_mean": 0.2409090909090909,
+            "test_precision_std": 0.3094917187372582,
+            "test_recall_mean": 0.05600000000000001,
+            "test_recall_std": 0.0783836717690617,
+            "test_f1_mean": 0.08447121820615797,
+            "test_f1_std": 0.11170178956855152,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -1275,18 +1275,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5386666666666666,
+                    "precision": 0.75,
+                    "recall": 0.08,
+                    "f1": 0.14457831325301204
                 },
                 "setup-4": {
-                    "accuracy": 0.9212121212121213,
-                    "balanced_accuracy": 0.5726666666666667,
-                    "precision": 0.9166666666666666,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.25287356321839083
+                    "accuracy": 0.9054545454545454,
+                    "balanced_accuracy": 0.588,
+                    "precision": 0.45454545454545453,
+                    "recall": 0.2,
+                    "f1": 0.2777777777777778
                 }
             }
         }
@@ -1308,39 +1308,39 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2874059796333313,
-            "val_rmse_std": 0.008593445126473915,
-            "test_accuracy_mean": 0.9105454545454545,
-            "test_accuracy_std": 0.0029090909090909276,
-            "test_balanced_accuracy_mean": 0.5104000000000001,
-            "test_balanced_accuracy_std": 0.017951044537853518,
-            "test_precision_mean": 0.275,
-            "test_precision_std": 0.3570714214271425,
-            "test_recall_mean": 0.021333333333333336,
-            "test_recall_std": 0.03636848452529562,
-            "test_f1_mean": 0.03892974495384134,
-            "test_f1_std": 0.0656478161526926,
+            "val_loss_mean": 0.2889950692653656,
+            "val_loss_std": 0.01290436975984851,
+            "test_accuracy_mean": 0.9110303030303031,
+            "test_accuracy_std": 0.003123417873145505,
+            "test_balanced_accuracy_mean": 0.5238666666666667,
+            "test_balanced_accuracy_std": 0.02573851415896249,
+            "test_precision_mean": 0.3501298701298701,
+            "test_precision_std": 0.3040421449512567,
+            "test_recall_mean": 0.05066666666666667,
+            "test_recall_std": 0.05359933664597809,
+            "test_f1_mean": 0.08750195975960282,
+            "test_f1_std": 0.09079264381023931,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.5640000000000001,
+                    "precision": 0.7142857142857143,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.2247191011235955
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.506,
-                    "precision": 0.5,
-                    "recall": 0.013333333333333334,
-                    "f1": 0.025974025974025976
-                },
-                "setup-2": {
-                    "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
+                },
+                "setup-2": {
+                    "accuracy": 0.9078787878787878,
+                    "balanced_accuracy": 0.5113333333333333,
+                    "precision": 0.4,
+                    "recall": 0.02666666666666667,
+                    "f1": 0.05
                 },
                 "setup-3": {
                     "accuracy": 0.9090909090909091,
@@ -1350,11 +1350,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.546,
-                    "precision": 0.875,
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.544,
+                    "precision": 0.6363636363636364,
                     "recall": 0.09333333333333334,
-                    "f1": 0.1686746987951807
+                    "f1": 0.1627906976744186
                 }
             }
         }
@@ -1376,18 +1376,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30802167654037477,
-            "val_rmse_std": 0.0011576056291663047,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.3000597655773163,
+            "val_loss_std": 0.01700495833829678,
+            "test_accuracy_mean": 0.9103030303030304,
+            "test_accuracy_std": 0.00242424242424244,
+            "test_balanced_accuracy_mean": 0.5150666666666667,
+            "test_balanced_accuracy_std": 0.030133333333333345,
+            "test_precision_mean": 0.12631578947368421,
+            "test_precision_std": 0.25263157894736843,
+            "test_recall_mean": 0.032,
+            "test_recall_std": 0.064,
+            "test_f1_mean": 0.05106382978723404,
+            "test_f1_std": 0.10212765957446808,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -1418,11 +1418,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5753333333333334,
+                    "precision": 0.631578947368421,
+                    "recall": 0.16,
+                    "f1": 0.2553191489361702
                 }
             }
         }
@@ -1444,32 +1444,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28654958605766295,
-            "val_rmse_std": 0.008710793188012206,
-            "test_accuracy_mean": 0.9132121212121213,
-            "test_accuracy_std": 0.005061966792199087,
-            "test_balanced_accuracy_mean": 0.5286666666666667,
-            "test_balanced_accuracy_std": 0.03510998591727303,
-            "test_precision_mean": 0.3263736263736264,
-            "test_precision_std": 0.4001810965488249,
-            "test_recall_mean": 0.058666666666666666,
-            "test_recall_std": 0.07185169912163988,
-            "test_f1_mean": 0.09943820224719102,
-            "test_f1_std": 0.12178966762832369,
+            "val_loss_mean": 0.28325819969177246,
+            "val_loss_std": 0.012038741452569186,
+            "test_accuracy_mean": 0.9095757575757576,
+            "test_accuracy_std": 0.004637848841141572,
+            "test_balanced_accuracy_mean": 0.5314666666666668,
+            "test_balanced_accuracy_std": 0.03886935382363163,
+            "test_precision_mean": 0.23238095238095235,
+            "test_precision_std": 0.3004818503730768,
+            "test_recall_mean": 0.06933333333333333,
+            "test_recall_std": 0.08657430976398894,
+            "test_f1_mean": 0.10343434343434343,
+            "test_f1_std": 0.1269960115125989,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5713333333333334,
-                    "precision": 0.7857142857142857,
+                    "accuracy": 0.9175757575757576,
+                    "balanced_accuracy": 0.5706666666666667,
+                    "precision": 0.7333333333333333,
                     "recall": 0.14666666666666667,
-                    "f1": 0.24719101123595508
+                    "f1": 0.24444444444444444
                 },
                 "setup-1": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.572,
-                    "precision": 0.8461538461538461,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.25000000000000006
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -1486,11 +1486,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9030303030303031,
+                    "balanced_accuracy": 0.5866666666666667,
+                    "precision": 0.42857142857142855,
+                    "recall": 0.2,
+                    "f1": 0.27272727272727276
                 }
             }
         }
@@ -1512,25 +1512,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2873482763767242,
-            "val_rmse_std": 0.011290990961083215,
-            "test_accuracy_mean": 0.9107878787878787,
-            "test_accuracy_std": 0.0021134055483833705,
-            "test_balanced_accuracy_mean": 0.5117333333333334,
-            "test_balanced_accuracy_std": 0.015535479107871463,
-            "test_precision_mean": 0.35,
-            "test_precision_std": 0.43588989435406733,
-            "test_recall_mean": 0.024,
-            "test_recall_std": 0.032,
-            "test_f1_mean": 0.04430027803521779,
-            "test_f1_std": 0.0583223374984434,
+            "val_loss_mean": 0.28294227719306947,
+            "val_loss_std": 0.010834299949040324,
+            "test_accuracy_mean": 0.9120000000000001,
+            "test_accuracy_std": 0.002721205372199248,
+            "test_balanced_accuracy_mean": 0.5208,
+            "test_balanced_accuracy_std": 0.01904100837665905,
+            "test_precision_mean": 0.47698412698412695,
+            "test_precision_std": 0.39104037187531154,
+            "test_recall_mean": 0.042666666666666665,
+            "test_recall_std": 0.03900997023554078,
+            "test_f1_mean": 0.07779149943398168,
+            "test_f1_std": 0.07029128129766692,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5386666666666666,
-                    "precision": 0.75,
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5393333333333333,
+                    "precision": 0.8571428571428571,
                     "recall": 0.08,
-                    "f1": 0.14457831325301204
+                    "f1": 0.14634146341463417
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -1547,18 +1547,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9115151515151515,
+                    "balanced_accuracy": 0.5193333333333333,
+                    "precision": 0.75,
+                    "recall": 0.04,
+                    "f1": 0.07594936708860758
                 },
                 "setup-4": {
-                    "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.52,
-                    "precision": 1.0,
-                    "recall": 0.04,
-                    "f1": 0.07692307692307693
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5453333333333333,
+                    "precision": 0.7777777777777778,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.16666666666666666
                 }
             }
         }
@@ -1580,25 +1580,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29102486968040464,
-            "val_rmse_std": 0.006642780195939597,
-            "test_accuracy_mean": 0.9098181818181817,
-            "test_accuracy_std": 0.0014545454545454638,
-            "test_balanced_accuracy_mean": 0.5052,
-            "test_balanced_accuracy_std": 0.010400000000000008,
-            "test_precision_mean": 0.16,
-            "test_precision_std": 0.32,
-            "test_recall_mean": 0.010666666666666668,
-            "test_recall_std": 0.021333333333333336,
-            "test_f1_mean": 0.02,
-            "test_f1_std": 0.04,
+            "val_loss_mean": 0.2905735433101654,
+            "val_loss_std": 0.00785545652763744,
+            "test_accuracy_mean": 0.9093333333333333,
+            "test_accuracy_std": 0.004226811096766708,
+            "test_balanced_accuracy_mean": 0.5193333333333333,
+            "test_balanced_accuracy_std": 0.023791688558075137,
+            "test_precision_mean": 0.2361904761904762,
+            "test_precision_std": 0.3181807697953692,
+            "test_recall_mean": 0.04266666666666667,
+            "test_recall_std": 0.05225578117937447,
+            "test_f1_mean": 0.07098039215686273,
+            "test_f1_std": 0.087200026806905,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.5519999999999999,
+                    "precision": 0.8,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.18823529411764706
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -1615,18 +1615,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.526,
-                    "precision": 0.8,
-                    "recall": 0.05333333333333334,
-                    "f1": 0.1
-                },
-                "setup-4": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
+                },
+                "setup-4": {
+                    "accuracy": 0.9030303030303031,
+                    "balanced_accuracy": 0.5446666666666666,
+                    "precision": 0.38095238095238093,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.16666666666666666
                 }
             }
         }
@@ -1648,18 +1648,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2959767758846283,
-            "val_rmse_std": 0.014152875867332588,
-            "test_accuracy_mean": 0.9105454545454545,
-            "test_accuracy_std": 0.0029090909090909276,
-            "test_balanced_accuracy_mean": 0.5104,
-            "test_balanced_accuracy_std": 0.020799999999999975,
-            "test_precision_mean": 0.16,
-            "test_precision_std": 0.32,
-            "test_recall_mean": 0.021333333333333336,
-            "test_recall_std": 0.04266666666666667,
-            "test_f1_mean": 0.03764705882352941,
-            "test_f1_std": 0.07529411764705882,
+            "val_loss_mean": 0.2970048010349274,
+            "val_loss_std": 0.014579908350496665,
+            "test_accuracy_mean": 0.9098181818181817,
+            "test_accuracy_std": 0.001454545454545464,
+            "test_balanced_accuracy_mean": 0.5088,
+            "test_balanced_accuracy_std": 0.01760000000000002,
+            "test_precision_mean": 0.12727272727272726,
+            "test_precision_std": 0.2545454545454545,
+            "test_recall_mean": 0.018666666666666668,
+            "test_recall_std": 0.037333333333333336,
+            "test_f1_mean": 0.03255813953488372,
+            "test_f1_std": 0.06511627906976744,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -1690,11 +1690,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.5519999999999999,
-                    "precision": 0.8,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.18823529411764706
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.544,
+                    "precision": 0.6363636363636364,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.1627906976744186
                 }
             }
         }
@@ -1716,18 +1716,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28071110844612124,
-            "val_rmse_std": 0.006531631644353904,
-            "test_accuracy_mean": 0.9168484848484848,
-            "test_accuracy_std": 0.002827128191440164,
-            "test_balanced_accuracy_mean": 0.5510666666666667,
-            "test_balanced_accuracy_std": 0.020919315901285554,
-            "test_precision_mean": 0.8834967320261438,
-            "test_precision_std": 0.10247534396697572,
-            "test_recall_mean": 0.10400000000000001,
-            "test_recall_std": 0.043328204824725124,
-            "test_f1_mean": 0.1818317704645625,
-            "test_f1_std": 0.06725796608359702,
+            "val_loss_mean": 0.28559884428977966,
+            "val_loss_std": 0.013023091559908367,
+            "test_accuracy_mean": 0.9129696969696969,
+            "test_accuracy_std": 0.002350390233898841,
+            "test_balanced_accuracy_mean": 0.5237333333333333,
+            "test_balanced_accuracy_std": 0.016725761899271146,
+            "test_precision_mean": 0.76,
+            "test_precision_std": 0.3878143885933063,
+            "test_recall_mean": 0.048,
+            "test_recall_std": 0.03435759660460033,
+            "test_f1_mean": 0.0886694541497222,
+            "test_f1_std": 0.06034940239376101,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9127272727272727,
@@ -1737,32 +1737,32 @@
                     "f1": 0.07692307692307693
                 },
                 "setup-1": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.5840000000000001,
-                    "precision": 0.7647058823529411,
-                    "recall": 0.17333333333333334,
-                    "f1": 0.2826086956521739
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.546,
-                    "precision": 0.875,
-                    "recall": 0.09333333333333334,
-                    "f1": 0.1686746987951807
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.52,
+                    "precision": 1.0,
+                    "recall": 0.04,
+                    "f1": 0.07692307692307693
                 },
                 "setup-3": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5453333333333333,
-                    "precision": 0.7777777777777778,
-                    "recall": 0.09333333333333334,
-                    "f1": 0.16666666666666666
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5266666666666666,
+                    "precision": 1.0,
+                    "recall": 0.05333333333333334,
+                    "f1": 0.10126582278481014
                 },
                 "setup-4": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.56,
-                    "precision": 1.0,
-                    "recall": 0.12,
-                    "f1": 0.21428571428571425
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.5519999999999999,
+                    "precision": 0.8,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.18823529411764706
                 }
             }
         }
@@ -1784,53 +1784,53 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28385544419288633,
-            "val_rmse_std": 0.004528108315097794,
-            "test_accuracy_mean": 0.9141818181818181,
-            "test_accuracy_std": 0.0038636066546689283,
-            "test_balanced_accuracy_mean": 0.528,
-            "test_balanced_accuracy_std": 0.02124983660067896,
-            "test_precision_mean": 0.8,
-            "test_precision_std": 0.4000000000000001,
-            "test_recall_mean": 0.05600000000000001,
-            "test_recall_std": 0.04249967320135794,
-            "test_f1_mean": 0.10296371622562135,
-            "test_f1_std": 0.07696738701641374,
+            "val_loss_mean": 0.2852743923664093,
+            "val_loss_std": 0.008527476135402844,
+            "test_accuracy_mean": 0.913939393939394,
+            "test_accuracy_std": 0.0017141982574219445,
+            "test_balanced_accuracy_mean": 0.5278666666666666,
+            "test_balanced_accuracy_std": 0.009728766051709192,
+            "test_precision_mean": 0.9666666666666668,
+            "test_precision_std": 0.06666666666666665,
+            "test_recall_mean": 0.055999999999999994,
+            "test_recall_std": 0.019595917942265426,
+            "test_f1_mean": 0.10509521342854677,
+            "test_f1_std": 0.03522837851467207,
             "test_scores": {
                 "setup-0": {
+                    "accuracy": 0.9115151515151515,
+                    "balanced_accuracy": 0.5133333333333333,
+                    "precision": 1.0,
+                    "recall": 0.02666666666666667,
+                    "f1": 0.05194805194805195
+                },
+                "setup-1": {
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.52,
+                    "precision": 1.0,
+                    "recall": 0.04,
+                    "f1": 0.07692307692307693
+                },
+                "setup-2": {
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.54,
+                    "precision": 1.0,
+                    "recall": 0.08,
+                    "f1": 0.14814814814814814
+                },
+                "setup-3": {
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5326666666666667,
+                    "precision": 0.8333333333333334,
+                    "recall": 0.06666666666666667,
+                    "f1": 0.1234567901234568
+                },
+                "setup-4": {
                     "accuracy": 0.9151515151515152,
                     "balanced_accuracy": 0.5333333333333333,
                     "precision": 1.0,
                     "recall": 0.06666666666666667,
                     "f1": 0.125
-                },
-                "setup-1": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
-                },
-                "setup-2": {
-                    "accuracy": 0.9103030303030303,
-                    "balanced_accuracy": 0.5066666666666667,
-                    "precision": 1.0,
-                    "recall": 0.013333333333333334,
-                    "f1": 0.02631578947368421
-                },
-                "setup-3": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5466666666666666,
-                    "precision": 1.0,
-                    "recall": 0.09333333333333334,
-                    "f1": 0.17073170731707318
-                },
-                "setup-4": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5533333333333333,
-                    "precision": 1.0,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.1927710843373494
                 }
             }
         }
@@ -1852,53 +1852,53 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2871271252632141,
-            "val_rmse_std": 0.007168802523768999,
-            "test_accuracy_mean": 0.9141818181818181,
-            "test_accuracy_std": 0.0030084057323614393,
-            "test_balanced_accuracy_mean": 0.546,
-            "test_balanced_accuracy_std": 0.024661260668866414,
-            "test_precision_mean": 0.578076923076923,
-            "test_precision_std": 0.30188766192207295,
-            "test_recall_mean": 0.096,
-            "test_recall_std": 0.05157087894883658,
-            "test_f1_mean": 0.16343190945600583,
-            "test_f1_std": 0.0861334575879428,
+            "val_loss_mean": 0.29039470553398133,
+            "val_loss_std": 0.010138505038999117,
+            "test_accuracy_mean": 0.9095757575757576,
+            "test_accuracy_std": 0.000969696969696976,
+            "test_balanced_accuracy_mean": 0.5026666666666666,
+            "test_balanced_accuracy_std": 0.005333333333333323,
+            "test_precision_mean": 0.2,
+            "test_precision_std": 0.4000000000000001,
+            "test_recall_mean": 0.005333333333333334,
+            "test_recall_std": 0.010666666666666668,
+            "test_f1_mean": 0.01038961038961039,
+            "test_f1_std": 0.020779220779220776,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5706666666666667,
-                    "precision": 0.7333333333333333,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.24444444444444444
-                },
-                "setup-1": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
                 },
+                "setup-1": {
+                    "accuracy": 0.9115151515151515,
+                    "balanced_accuracy": 0.5133333333333333,
+                    "precision": 1.0,
+                    "recall": 0.02666666666666667,
+                    "f1": 0.05194805194805195
+                },
                 "setup-2": {
-                    "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.5499999999999999,
-                    "precision": 0.6153846153846154,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.18181818181818185
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5633333333333334,
-                    "precision": 0.6666666666666666,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2222222222222222
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.546,
-                    "precision": 0.875,
-                    "recall": 0.09333333333333334,
-                    "f1": 0.1686746987951807
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -1920,18 +1920,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29851859211921694,
-            "val_rmse_std": 0.014822006694535789,
-            "test_accuracy_mean": 0.9117575757575758,
-            "test_accuracy_std": 0.005333333333333324,
-            "test_balanced_accuracy_mean": 0.5146666666666666,
-            "test_balanced_accuracy_std": 0.029333333333333347,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
+            "val_loss_mean": 0.2999297022819519,
+            "val_loss_std": 0.013844424527479452,
+            "test_accuracy_mean": 0.911030303030303,
+            "test_accuracy_std": 0.003878787878787904,
+            "test_balanced_accuracy_mean": 0.5142666666666666,
+            "test_balanced_accuracy_std": 0.028533333333333345,
+            "test_precision_mean": 0.15714285714285714,
+            "test_precision_std": 0.3142857142857143,
             "test_recall_mean": 0.029333333333333333,
             "test_recall_std": 0.058666666666666666,
-            "test_f1_mean": 0.05116279069767442,
-            "test_f1_std": 0.10232558139534884,
+            "test_f1_mean": 0.04943820224719102,
+            "test_f1_std": 0.09887640449438204,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -1962,11 +1962,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9224242424242424,
-                    "balanced_accuracy": 0.5733333333333334,
-                    "precision": 1.0,
+                    "accuracy": 0.9187878787878788,
+                    "balanced_accuracy": 0.5713333333333334,
+                    "precision": 0.7857142857142857,
                     "recall": 0.14666666666666667,
-                    "f1": 0.2558139534883721
+                    "f1": 0.24719101123595508
                 }
             }
         }
@@ -1988,32 +1988,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2848494291305542,
-            "val_rmse_std": 0.009067679593395135,
-            "test_accuracy_mean": 0.9136969696969697,
-            "test_accuracy_std": 0.004226811096766741,
-            "test_balanced_accuracy_mean": 0.5265333333333333,
-            "test_balanced_accuracy_std": 0.02508793424027665,
-            "test_precision_mean": 0.5818181818181818,
-            "test_precision_std": 0.47621094013486526,
-            "test_recall_mean": 0.05333333333333333,
-            "test_recall_std": 0.05059644256269407,
-            "test_f1_mean": 0.09639442209356838,
-            "test_f1_std": 0.08924853598146193,
+            "val_loss_mean": 0.2844778001308441,
+            "val_loss_std": 0.012424824129198752,
+            "test_accuracy_mean": 0.9110303030303031,
+            "test_accuracy_std": 0.0066213334709079655,
+            "test_balanced_accuracy_mean": 0.5322666666666667,
+            "test_balanced_accuracy_std": 0.029483253250315214,
+            "test_precision_mean": 0.41666666666666663,
+            "test_precision_std": 0.4013864859597432,
+            "test_recall_mean": 0.06933333333333333,
+            "test_recall_std": 0.06162250671088716,
+            "test_f1_mean": 0.11606026087733405,
+            "test_f1_std": 0.1025900317082549,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.54,
+                    "accuracy": 0.9175757575757576,
+                    "balanced_accuracy": 0.5466666666666666,
                     "precision": 1.0,
-                    "recall": 0.08,
-                    "f1": 0.14814814814814814
+                    "recall": 0.09333333333333334,
+                    "f1": 0.17073170731707318
                 },
                 "setup-1": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5266666666666666,
-                    "precision": 1.0,
-                    "recall": 0.05333333333333334,
-                    "f1": 0.10126582278481014
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -2023,18 +2023,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9006060606060606,
+                    "balanced_accuracy": 0.5373333333333333,
+                    "precision": 0.3333333333333333,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.14583333333333334
                 },
                 "setup-4": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.5660000000000001,
-                    "precision": 0.9090909090909091,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2325581395348837
+                    "accuracy": 0.9187878787878788,
+                    "balanced_accuracy": 0.5773333333333334,
+                    "precision": 0.75,
+                    "recall": 0.16,
+                    "f1": 0.26373626373626374
                 }
             }
         }
@@ -2056,32 +2056,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2809494137763977,
-            "val_rmse_std": 0.007517152069068645,
-            "test_accuracy_mean": 0.9127272727272727,
-            "test_accuracy_std": 0.004470082161111732,
-            "test_balanced_accuracy_mean": 0.5224,
-            "test_balanced_accuracy_std": 0.027515167534369916,
-            "test_precision_mean": 0.35777777777777775,
-            "test_precision_std": 0.4382005854473722,
-            "test_recall_mean": 0.04533333333333334,
-            "test_recall_std": 0.0556816347141896,
-            "test_f1_mean": 0.08044817927170869,
-            "test_f1_std": 0.09875821186625094,
+            "val_loss_mean": 0.2830799460411072,
+            "val_loss_std": 0.010297281792961743,
+            "test_accuracy_mean": 0.9141818181818182,
+            "test_accuracy_std": 0.0037867877216517356,
+            "test_balanced_accuracy_mean": 0.5508,
+            "test_balanced_accuracy_std": 0.02643364858996538,
+            "test_precision_mean": 0.5670995670995671,
+            "test_precision_std": 0.3067917447400682,
+            "test_recall_mean": 0.10666666666666666,
+            "test_recall_std": 0.05593647190240808,
+            "test_f1_mean": 0.17772159340957236,
+            "test_f1_std": 0.09132063404407714,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.92,
+                    "balanced_accuracy": 0.5660000000000001,
+                    "precision": 0.9090909090909091,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.2325581395348837
                 },
                 "setup-1": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.5640000000000001,
+                    "precision": 0.7142857142857143,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.2247191011235955
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -2091,18 +2091,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5593333333333333,
-                    "precision": 0.9,
-                    "recall": 0.12,
-                    "f1": 0.21176470588235294
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5506666666666666,
+                    "precision": 0.6666666666666666,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.1839080459770115
                 },
                 "setup-4": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5526666666666666,
-                    "precision": 0.8888888888888888,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.19047619047619047
+                    "accuracy": 0.9115151515151515,
+                    "balanced_accuracy": 0.5733333333333334,
+                    "precision": 0.5454545454545454,
+                    "recall": 0.16,
+                    "f1": 0.24742268041237112
                 }
             }
         }
@@ -2124,39 +2124,39 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2897612750530243,
-            "val_rmse_std": 0.002828364921027676,
-            "test_accuracy_mean": 0.9105454545454545,
-            "test_accuracy_std": 0.0019393939393939517,
-            "test_balanced_accuracy_mean": 0.5115999999999999,
-            "test_balanced_accuracy_std": 0.015466666666666651,
-            "test_precision_mean": 0.3,
-            "test_precision_std": 0.36742346141747667,
-            "test_recall_mean": 0.024,
-            "test_recall_std": 0.032,
-            "test_f1_mean": 0.044105536068323924,
-            "test_f1_std": 0.058214608930877536,
+            "val_loss_mean": 0.2878844439983368,
+            "val_loss_std": 0.00809722910638192,
+            "test_accuracy_mean": 0.9122424242424243,
+            "test_accuracy_std": 0.002610988997398564,
+            "test_balanced_accuracy_mean": 0.5473333333333332,
+            "test_balanced_accuracy_std": 0.03965630116667745,
+            "test_precision_mean": 0.3634057971014493,
+            "test_precision_std": 0.2970166015287713,
+            "test_recall_mean": 0.10133333333333334,
+            "test_recall_std": 0.08499934640271588,
+            "test_f1_mean": 0.15766455766455767,
+            "test_f1_std": 0.13087190066447282,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5193333333333333,
-                    "precision": 0.75,
-                    "recall": 0.04,
-                    "f1": 0.07594936708860758
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5866666666666667,
+                    "precision": 0.5833333333333334,
+                    "recall": 0.18666666666666668,
+                    "f1": 0.2828282828282828
                 },
                 "setup-1": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5873333333333334,
+                    "precision": 0.6086956521739131,
+                    "recall": 0.18666666666666668,
+                    "f1": 0.28571428571428575
                 },
                 "setup-2": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5626666666666666,
+                    "precision": 0.625,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.21978021978021978
                 },
                 "setup-3": {
                     "accuracy": 0.9090909090909091,
@@ -2166,11 +2166,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5386666666666666,
-                    "precision": 0.75,
-                    "recall": 0.08,
-                    "f1": 0.14457831325301204
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -2192,8 +2192,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3061784565448761,
-            "val_rmse_std": 0.0006816633073552593,
+            "val_loss_mean": 0.3065814018249512,
+            "val_loss_std": 0.0009266283173426846,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -2260,53 +2260,53 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.281058269739151,
-            "val_rmse_std": 0.0045369289271914,
-            "test_accuracy_mean": 0.9139393939393938,
-            "test_accuracy_std": 0.0031608254085831225,
-            "test_balanced_accuracy_mean": 0.5302666666666667,
-            "test_balanced_accuracy_std": 0.023367974285808828,
-            "test_precision_mean": 0.7571428571428571,
-            "test_precision_std": 0.3875617133214439,
-            "test_recall_mean": 0.06133333333333333,
-            "test_recall_std": 0.04814792022738077,
-            "test_f1_mean": 0.11007598218876842,
-            "test_f1_std": 0.08039491699024501,
+            "val_loss_mean": 0.28043779730796814,
+            "val_loss_std": 0.009621993186185666,
+            "test_accuracy_mean": 0.9129696969696969,
+            "test_accuracy_std": 0.0035463609305037306,
+            "test_balanced_accuracy_mean": 0.5453333333333333,
+            "test_balanced_accuracy_std": 0.026796351327082666,
+            "test_precision_mean": 0.825,
+            "test_precision_std": 0.2242270674512285,
+            "test_recall_mean": 0.096,
+            "test_recall_std": 0.059269628722380986,
+            "test_f1_mean": 0.15866872227631723,
+            "test_f1_std": 0.08366604668766715,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
-                },
-                "setup-1": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5713333333333334,
-                    "precision": 0.7857142857142857,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.24719101123595508
-                },
-                "setup-2": {
                     "accuracy": 0.9139393939393939,
                     "balanced_accuracy": 0.5266666666666666,
                     "precision": 1.0,
                     "recall": 0.05333333333333334,
                     "f1": 0.10126582278481014
                 },
-                "setup-3": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5333333333333333,
-                    "precision": 1.0,
-                    "recall": 0.06666666666666667,
-                    "f1": 0.125
+                "setup-1": {
+                    "accuracy": 0.9175757575757576,
+                    "balanced_accuracy": 0.5886666666666667,
+                    "precision": 0.6666666666666666,
+                    "recall": 0.18666666666666668,
+                    "f1": 0.2916666666666667
                 },
-                "setup-4": {
+                "setup-2": {
                     "accuracy": 0.9127272727272727,
                     "balanced_accuracy": 0.52,
                     "precision": 1.0,
                     "recall": 0.04,
                     "f1": 0.07692307692307693
+                },
+                "setup-3": {
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5266666666666666,
+                    "precision": 1.0,
+                    "recall": 0.05333333333333334,
+                    "f1": 0.10126582278481014
+                },
+                "setup-4": {
+                    "accuracy": 0.9066666666666666,
+                    "balanced_accuracy": 0.5646666666666667,
+                    "precision": 0.4583333333333333,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.22222222222222224
                 }
             }
         }
@@ -2328,25 +2328,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2827527344226837,
-            "val_rmse_std": 0.004719664186727229,
-            "test_accuracy_mean": 0.9124848484848485,
-            "test_accuracy_std": 0.0030084057323614393,
-            "test_balanced_accuracy_mean": 0.5294666666666668,
-            "test_balanced_accuracy_std": 0.02649410835974252,
-            "test_precision_mean": 0.46274509803921565,
-            "test_precision_std": 0.3981116518654269,
-            "test_recall_mean": 0.06133333333333334,
-            "test_recall_std": 0.055681634714189604,
-            "test_f1_mean": 0.10602714515757994,
-            "test_f1_std": 0.09309202366800134,
+            "val_loss_mean": 0.2846061646938324,
+            "val_loss_std": 0.008788616973726677,
+            "test_accuracy_mean": 0.9107878787878787,
+            "test_accuracy_std": 0.0033939393939394157,
+            "test_balanced_accuracy_mean": 0.5537333333333333,
+            "test_balanced_accuracy_std": 0.031065808285709304,
+            "test_precision_mean": 0.47777777777777775,
+            "test_precision_std": 0.28240588949197404,
+            "test_recall_mean": 0.11733333333333333,
+            "test_recall_std": 0.06923069325731825,
+            "test_f1_mean": 0.18188807891778191,
+            "test_f1_std": 0.09967910481309389,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "balanced_accuracy": 0.5780000000000001,
+                    "precision": 0.5,
+                    "recall": 0.17333333333333334,
+                    "f1": 0.25742574257425743
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -2356,25 +2356,25 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.538,
-                    "precision": 0.6666666666666666,
-                    "recall": 0.08,
-                    "f1": 0.14285714285714285
+                    "accuracy": 0.9175757575757576,
+                    "balanced_accuracy": 0.5526666666666666,
+                    "precision": 0.8888888888888888,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.19047619047619047
                 },
                 "setup-3": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5693333333333334,
-                    "precision": 0.6470588235294118,
-                    "recall": 0.14666666666666667,
-                    "f1": 0.23913043478260873
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5479999999999999,
+                    "precision": 0.5,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.17582417582417584
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.54,
-                    "precision": 1.0,
-                    "recall": 0.08,
-                    "f1": 0.14814814814814814
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.59,
+                    "precision": 0.5,
+                    "recall": 0.2,
+                    "f1": 0.28571428571428575
                 }
             }
         }
@@ -2396,25 +2396,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28775174021720884,
-            "val_rmse_std": 0.003799458325061209,
-            "test_accuracy_mean": 0.9105454545454545,
-            "test_accuracy_std": 0.0029090909090909276,
-            "test_balanced_accuracy_mean": 0.508,
-            "test_balanced_accuracy_std": 0.016000000000000014,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
-            "test_recall_mean": 0.016,
-            "test_recall_std": 0.032,
-            "test_f1_mean": 0.029629629629629627,
-            "test_f1_std": 0.059259259259259255,
+            "val_loss_mean": 0.2937593400478363,
+            "val_loss_std": 0.006484799565425381,
+            "test_accuracy_mean": 0.9093333333333333,
+            "test_accuracy_std": 0.000484848484848488,
+            "test_balanced_accuracy_mean": 0.5097333333333334,
+            "test_balanced_accuracy_std": 0.019466666666666653,
+            "test_precision_mean": 0.10666666666666666,
+            "test_precision_std": 0.21333333333333332,
+            "test_recall_mean": 0.021333333333333336,
+            "test_recall_std": 0.04266666666666667,
+            "test_f1_mean": 0.035555555555555556,
+            "test_f1_std": 0.07111111111111111,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5486666666666666,
+                    "precision": 0.5333333333333333,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.17777777777777778
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -2438,11 +2438,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.54,
-                    "precision": 1.0,
-                    "recall": 0.08,
-                    "f1": 0.14814814814814814
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -2464,8 +2464,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3235373437404633,
-            "val_rmse_std": 0.0019858179032670935,
+            "val_loss_mean": 0.32372133135795594,
+            "val_loss_std": 0.0015160601534259235,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -2532,8 +2532,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3011539578437805,
-            "val_rmse_std": 0.01395397672607334,
+            "val_loss_mean": 0.30835085511207583,
+            "val_loss_std": 0.010867265989343537,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -2600,18 +2600,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2897884786128998,
-            "val_rmse_std": 0.017236488400572358,
-            "test_accuracy_mean": 0.9119999999999999,
-            "test_accuracy_std": 0.005818181818181811,
-            "test_balanced_accuracy_mean": 0.5196,
-            "test_balanced_accuracy_std": 0.03919999999999999,
-            "test_precision_mean": 0.16666666666666669,
-            "test_precision_std": 0.33333333333333337,
-            "test_recall_mean": 0.04,
-            "test_recall_std": 0.08,
-            "test_f1_mean": 0.06451612903225806,
-            "test_f1_std": 0.12903225806451613,
+            "val_loss_mean": 0.2992712438106537,
+            "val_loss_std": 0.011343303092724912,
+            "test_accuracy_mean": 0.9093333333333333,
+            "test_accuracy_std": 0.000484848484848488,
+            "test_balanced_accuracy_mean": 0.5013333333333334,
+            "test_balanced_accuracy_std": 0.002666666666666684,
+            "test_precision_mean": 0.2,
+            "test_precision_std": 0.4,
+            "test_recall_mean": 0.002666666666666667,
+            "test_recall_std": 0.005333333333333334,
+            "test_f1_mean": 0.005263157894736842,
+            "test_f1_std": 0.010526315789473684,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -2621,11 +2621,11 @@
                     "f1": 0.0
                 },
                 "setup-1": {
-                    "accuracy": 0.9236363636363636,
-                    "balanced_accuracy": 0.598,
-                    "precision": 0.8333333333333334,
-                    "recall": 0.2,
-                    "f1": 0.3225806451612903
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -2642,11 +2642,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5066666666666667,
+                    "precision": 1.0,
+                    "recall": 0.013333333333333334,
+                    "f1": 0.02631578947368421
                 }
             }
         }
@@ -2668,18 +2668,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29781599044799806,
-            "val_rmse_std": 0.006597573296520412,
-            "test_accuracy_mean": 0.9098181818181817,
-            "test_accuracy_std": 0.0014545454545454638,
-            "test_balanced_accuracy_mean": 0.504,
-            "test_balanced_accuracy_std": 0.008000000000000007,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4000000000000001,
-            "test_recall_mean": 0.008,
-            "test_recall_std": 0.016,
-            "test_f1_mean": 0.015384615384615385,
-            "test_f1_std": 0.03076923076923077,
+            "val_loss_mean": 0.30036134719848634,
+            "val_loss_std": 0.006866180230189992,
+            "test_accuracy_mean": 0.909090909090909,
+            "test_accuracy_std": 1.1102230246251565e-16,
+            "test_balanced_accuracy_mean": 0.5,
+            "test_balanced_accuracy_std": 0.0,
+            "test_precision_mean": 0.0,
+            "test_precision_std": 0.0,
+            "test_recall_mean": 0.0,
+            "test_recall_std": 0.0,
+            "test_f1_mean": 0.0,
+            "test_f1_std": 0.0,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -2696,11 +2696,11 @@
                     "f1": 0.0
                 },
                 "setup-2": {
-                    "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.52,
-                    "precision": 1.0,
-                    "recall": 0.04,
-                    "f1": 0.07692307692307693
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-3": {
                     "accuracy": 0.9090909090909091,
@@ -2736,8 +2736,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.32401376962661743,
-            "val_rmse_std": 0.004138445130646331,
+            "val_loss_mean": 0.32396832704544065,
+            "val_loss_std": 0.0042874432917235005,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -2804,25 +2804,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29837642312049867,
-            "val_rmse_std": 0.022662296725830297,
-            "test_accuracy_mean": 0.9115151515151515,
-            "test_accuracy_std": 0.00484848484848488,
-            "test_balanced_accuracy_mean": 0.5133333333333333,
-            "test_balanced_accuracy_std": 0.02666666666666666,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
-            "test_recall_mean": 0.026666666666666665,
-            "test_recall_std": 0.05333333333333333,
-            "test_f1_mean": 0.047058823529411764,
-            "test_f1_std": 0.09411764705882353,
+            "val_loss_mean": 0.2939697504043579,
+            "val_loss_std": 0.02019434356571068,
+            "test_accuracy_mean": 0.9103030303030304,
+            "test_accuracy_std": 0.00242424242424244,
+            "test_balanced_accuracy_mean": 0.5078666666666667,
+            "test_balanced_accuracy_std": 0.01573333333333333,
+            "test_precision_mean": 0.17142857142857143,
+            "test_precision_std": 0.34285714285714286,
+            "test_recall_mean": 0.016,
+            "test_recall_std": 0.032,
+            "test_f1_mean": 0.029268292682926834,
+            "test_f1_std": 0.058536585365853676,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5393333333333333,
+                    "precision": 0.8571428571428571,
+                    "recall": 0.08,
+                    "f1": 0.14634146341463417
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -2839,11 +2839,11 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9212121212121213,
-                    "balanced_accuracy": 0.5666666666666667,
-                    "precision": 1.0,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.23529411764705882
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -2872,25 +2872,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2852095186710358,
-            "val_rmse_std": 0.009351589925556378,
-            "test_accuracy_mean": 0.9122424242424243,
-            "test_accuracy_std": 0.004027453994142123,
-            "test_balanced_accuracy_mean": 0.5245333333333333,
-            "test_balanced_accuracy_std": 0.034877308764677754,
-            "test_precision_mean": 0.33999999999999997,
-            "test_precision_std": 0.4270831300812524,
-            "test_recall_mean": 0.05066666666666667,
-            "test_recall_std": 0.07273696905059124,
-            "test_f1_mean": 0.08394736842105263,
-            "test_f1_std": 0.11598189752722887,
+            "val_loss_mean": 0.28937203288078306,
+            "val_loss_std": 0.012557527240441372,
+            "test_accuracy_mean": 0.9107878787878787,
+            "test_accuracy_std": 0.0021134055483833705,
+            "test_balanced_accuracy_mean": 0.5177333333333334,
+            "test_balanced_accuracy_std": 0.02661862338873126,
+            "test_precision_mean": 0.32222222222222224,
+            "test_precision_std": 0.413357227505295,
+            "test_recall_mean": 0.037333333333333336,
+            "test_recall_std": 0.05681940200710005,
+            "test_f1_mean": 0.06269644334160464,
+            "test_f1_std": 0.09189468574479391,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5333333333333333,
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.52,
                     "precision": 1.0,
-                    "recall": 0.06666666666666667,
-                    "f1": 0.125
+                    "recall": 0.04,
+                    "f1": 0.07692307692307693
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -2914,11 +2914,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5893333333333334,
-                    "precision": 0.7,
-                    "recall": 0.18666666666666668,
-                    "f1": 0.29473684210526313
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5686666666666667,
+                    "precision": 0.6111111111111112,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.23655913978494625
                 }
             }
         }
@@ -2940,8 +2940,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.296645849943161,
-            "val_rmse_std": 0.004188987982837535,
+            "val_loss_mean": 0.2990190088748932,
+            "val_loss_std": 0.004236987804338636,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3008,8 +3008,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3364282429218292,
-            "val_rmse_std": 0.002449130947048462,
+            "val_loss_mean": 0.335630863904953,
+            "val_loss_std": 0.002573002534126167,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3076,25 +3076,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2836476445198059,
-            "val_rmse_std": 0.014427886990800604,
-            "test_accuracy_mean": 0.9129696969696969,
-            "test_accuracy_std": 0.004750525561761346,
-            "test_balanced_accuracy_mean": 0.5297333333333333,
-            "test_balanced_accuracy_std": 0.03685792542543144,
-            "test_precision_mean": 0.3111111111111111,
-            "test_precision_std": 0.3826483412827237,
-            "test_recall_mean": 0.06133333333333333,
-            "test_recall_std": 0.07617523657112374,
-            "test_f1_mean": 0.10189098998887654,
-            "test_f1_std": 0.1257756695243009,
+            "val_loss_mean": 0.28642475605010986,
+            "val_loss_std": 0.012896220906080967,
+            "test_accuracy_mean": 0.9105454545454545,
+            "test_accuracy_std": 0.002350390233898841,
+            "test_balanced_accuracy_mean": 0.5247999999999999,
+            "test_balanced_accuracy_std": 0.03051673493529593,
+            "test_precision_mean": 0.24322344322344325,
+            "test_precision_std": 0.30261465311336955,
+            "test_recall_mean": 0.05333333333333333,
+            "test_recall_std": 0.06586180818788517,
+            "test_f1_mean": 0.08674242424242425,
+            "test_f1_std": 0.10652226365324216,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5573333333333333,
+                    "precision": 0.6923076923076923,
+                    "recall": 0.12,
+                    "f1": 0.20454545454545456
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -3111,18 +3111,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5833333333333333,
-                    "precision": 0.7222222222222222,
-                    "recall": 0.17333333333333334,
-                    "f1": 0.27956989247311825
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5653333333333334,
-                    "precision": 0.8333333333333334,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2298850574712644
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5666666666666667,
+                    "precision": 0.5238095238095238,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.22916666666666669
                 }
             }
         }
@@ -3144,25 +3144,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.28293084502220156,
-            "val_rmse_std": 0.008926516494078815,
-            "test_accuracy_mean": 0.9100606060606061,
-            "test_accuracy_std": 0.001413564095720082,
-            "test_balanced_accuracy_mean": 0.5293333333333333,
-            "test_balanced_accuracy_std": 0.036633924775328744,
-            "test_precision_mean": 0.22135076252723312,
-            "test_precision_std": 0.2719931671698303,
-            "test_recall_mean": 0.064,
-            "test_recall_std": 0.08017758068465551,
-            "test_f1_mean": 0.09838022165387894,
-            "test_f1_std": 0.12183699897139247,
+            "val_loss_mean": 0.2869457244873047,
+            "val_loss_std": 0.009812923486694545,
+            "test_accuracy_mean": 0.9088484848484848,
+            "test_accuracy_std": 0.000484848484848488,
+            "test_balanced_accuracy_mean": 0.5142666666666666,
+            "test_balanced_accuracy_std": 0.028533333333333345,
+            "test_precision_mean": 0.096,
+            "test_precision_std": 0.192,
+            "test_recall_mean": 0.032,
+            "test_recall_std": 0.064,
+            "test_f1_mean": 0.047999999999999994,
+            "test_f1_std": 0.09599999999999999,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9103030303030303,
-                    "balanced_accuracy": 0.5846666666666667,
-                    "precision": 0.5185185185185185,
-                    "recall": 0.18666666666666668,
-                    "f1": 0.27450980392156865
+                    "accuracy": 0.9078787878787878,
+                    "balanced_accuracy": 0.5713333333333334,
+                    "precision": 0.48,
+                    "recall": 0.16,
+                    "f1": 0.23999999999999996
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -3186,11 +3186,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9127272727272727,
-                    "balanced_accuracy": 0.562,
-                    "precision": 0.5882352941176471,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.21739130434782608
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -3212,8 +3212,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30136688947677615,
-            "val_rmse_std": 0.003074350654170573,
+            "val_loss_mean": 0.298270171880722,
+            "val_loss_std": 0.00260950434617201,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3280,8 +3280,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.32226125001907346,
-            "val_rmse_std": 0.001762375260632419,
+            "val_loss_mean": 0.3227170526981354,
+            "val_loss_std": 0.0015203810091500179,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3348,18 +3348,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.31040686964988706,
-            "val_rmse_std": 0.020593565729820913,
-            "test_accuracy_mean": 0.911030303030303,
-            "test_accuracy_std": 0.0038787878787879034,
-            "test_balanced_accuracy_mean": 0.5106666666666666,
-            "test_balanced_accuracy_std": 0.02133333333333334,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
-            "test_recall_mean": 0.021333333333333336,
-            "test_recall_std": 0.04266666666666667,
-            "test_f1_mean": 0.03855421686746988,
-            "test_f1_std": 0.07710843373493977,
+            "val_loss_mean": 0.30165672302246094,
+            "val_loss_std": 0.019565339134744588,
+            "test_accuracy_mean": 0.908121212121212,
+            "test_accuracy_std": 0.0019393939393939075,
+            "test_balanced_accuracy_mean": 0.5066666666666666,
+            "test_balanced_accuracy_std": 0.01333333333333333,
+            "test_precision_mean": 0.075,
+            "test_precision_std": 0.15,
+            "test_recall_mean": 0.016,
+            "test_recall_std": 0.032,
+            "test_f1_mean": 0.026373626373626374,
+            "test_f1_std": 0.05274725274725275,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -3383,11 +3383,11 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5533333333333333,
-                    "precision": 1.0,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.1927710843373494
+                    "accuracy": 0.9042424242424243,
+                    "balanced_accuracy": 0.5333333333333333,
+                    "precision": 0.375,
+                    "recall": 0.08,
+                    "f1": 0.13186813186813187
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -3416,18 +3416,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.292062371969223,
-            "val_rmse_std": 0.012660814966849992,
-            "test_accuracy_mean": 0.9127272727272727,
-            "test_accuracy_std": 0.004599676596608582,
-            "test_balanced_accuracy_mean": 0.5307999999999999,
-            "test_balanced_accuracy_std": 0.03835831070315793,
-            "test_precision_mean": 0.3090909090909091,
-            "test_precision_std": 0.38825739098295675,
-            "test_recall_mean": 0.064,
-            "test_recall_std": 0.08017758068465551,
-            "test_f1_mean": 0.10424358666986336,
-            "test_f1_std": 0.12889851668652424,
+            "val_loss_mean": 0.29418253898620605,
+            "val_loss_std": 0.01515954102816477,
+            "test_accuracy_mean": 0.9107878787878787,
+            "test_accuracy_std": 0.0033939393939394157,
+            "test_balanced_accuracy_mean": 0.5381333333333334,
+            "test_balanced_accuracy_std": 0.04897963295538713,
+            "test_precision_mean": 0.2225806451612903,
+            "test_precision_std": 0.2749325903569357,
+            "test_recall_mean": 0.08266666666666667,
+            "test_recall_std": 0.10545983964418769,
+            "test_f1_mean": 0.12018296169239566,
+            "test_f1_std": 0.15170054571242972,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -3437,11 +3437,11 @@
                     "f1": 0.0
                 },
                 "setup-1": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.588,
-                    "precision": 0.6363636363636364,
-                    "recall": 0.18666666666666668,
-                    "f1": 0.288659793814433
+                    "accuracy": 0.9175757575757576,
+                    "balanced_accuracy": 0.6186666666666667,
+                    "precision": 0.6129032258064516,
+                    "recall": 0.25333333333333335,
+                    "f1": 0.3584905660377359
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -3458,11 +3458,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.5660000000000001,
-                    "precision": 0.9090909090909091,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2325581395348837
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.572,
+                    "precision": 0.5,
+                    "recall": 0.16,
+                    "f1": 0.24242424242424243
                 }
             }
         }
@@ -3484,18 +3484,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2938051402568817,
-            "val_rmse_std": 0.006098090322907343,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.29675443172454835,
+            "val_loss_std": 0.005997034356977914,
+            "test_accuracy_mean": 0.9098181818181817,
+            "test_accuracy_std": 0.0014545454545454638,
+            "test_balanced_accuracy_mean": 0.5076,
+            "test_balanced_accuracy_std": 0.015200000000000014,
+            "test_precision_mean": 0.13333333333333333,
+            "test_precision_std": 0.26666666666666666,
+            "test_recall_mean": 0.016,
+            "test_recall_std": 0.032,
+            "test_f1_mean": 0.02857142857142857,
+            "test_f1_std": 0.05714285714285714,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -3519,11 +3519,11 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.538,
+                    "precision": 0.6666666666666666,
+                    "recall": 0.08,
+                    "f1": 0.14285714285714285
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -3552,8 +3552,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3288083791732788,
-            "val_rmse_std": 0.006538961195276771,
+            "val_loss_mean": 0.3282954514026642,
+            "val_loss_std": 0.0076061436687021415,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3620,32 +3620,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29000320434570315,
-            "val_rmse_std": 0.010570655123147475,
-            "test_accuracy_mean": 0.9107878787878787,
-            "test_accuracy_std": 0.0033939393939394157,
-            "test_balanced_accuracy_mean": 0.5117333333333333,
-            "test_balanced_accuracy_std": 0.023466666666666653,
-            "test_precision_mean": 0.16363636363636364,
-            "test_precision_std": 0.32727272727272727,
-            "test_recall_mean": 0.024,
-            "test_recall_std": 0.048,
-            "test_f1_mean": 0.04186046511627907,
-            "test_f1_std": 0.08372093023255814,
+            "val_loss_mean": 0.28381415605545046,
+            "val_loss_std": 0.013590731618202003,
+            "test_accuracy_mean": 0.911030303030303,
+            "test_accuracy_std": 0.002495910337208986,
+            "test_balanced_accuracy_mean": 0.5274666666666666,
+            "test_balanced_accuracy_std": 0.03565114927242101,
+            "test_precision_mean": 0.2448160535117057,
+            "test_precision_std": 0.29984466696683626,
+            "test_recall_mean": 0.058666666666666666,
+            "test_recall_std": 0.07617523657112373,
+            "test_f1_mean": 0.09350649350649351,
+            "test_f1_std": 0.11914124614212693,
             "test_scores": {
                 "setup-0": {
+                    "accuracy": 0.9151515151515152,
+                    "balanced_accuracy": 0.5873333333333334,
+                    "precision": 0.6086956521739131,
+                    "recall": 0.18666666666666668,
+                    "f1": 0.28571428571428575
+                },
+                "setup-1": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
-                },
-                "setup-1": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5586666666666666,
-                    "precision": 0.8181818181818182,
-                    "recall": 0.12,
-                    "f1": 0.20930232558139536
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -3655,11 +3655,11 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.5499999999999999,
+                    "precision": 0.6153846153846154,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.18181818181818185
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -3688,32 +3688,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29560142755508423,
-            "val_rmse_std": 0.008181051510310795,
-            "test_accuracy_mean": 0.9129696969696971,
-            "test_accuracy_std": 0.0048119838160677175,
-            "test_balanced_accuracy_mean": 0.5237333333333333,
-            "test_balanced_accuracy_std": 0.029371490334071323,
-            "test_precision_mean": 0.3595959595959596,
-            "test_precision_std": 0.44045963878502276,
-            "test_recall_mean": 0.048,
-            "test_recall_std": 0.059389486536853574,
-            "test_f1_mean": 0.08460686600221483,
-            "test_f1_std": 0.10447282759518357,
+            "val_loss_mean": 0.2892489552497864,
+            "val_loss_std": 0.015145751748398842,
+            "test_accuracy_mean": 0.910060606060606,
+            "test_accuracy_std": 0.0019393939393939517,
+            "test_balanced_accuracy_mean": 0.5137333333333334,
+            "test_balanced_accuracy_std": 0.02746666666666666,
+            "test_precision_mean": 0.12222222222222223,
+            "test_precision_std": 0.24444444444444446,
+            "test_recall_mean": 0.029333333333333333,
+            "test_recall_std": 0.058666666666666666,
+            "test_f1_mean": 0.04731182795698925,
+            "test_f1_std": 0.09462365591397849,
             "test_scores": {
                 "setup-0": {
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5686666666666667,
+                    "precision": 0.6111111111111112,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.23655913978494625
+                },
+                "setup-1": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
-                },
-                "setup-1": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.5660000000000001,
-                    "precision": 0.9090909090909091,
-                    "recall": 0.13333333333333333,
-                    "f1": 0.2325581395348837
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -3730,11 +3730,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5526666666666666,
-                    "precision": 0.8888888888888888,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.19047619047619047
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -3756,8 +3756,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30426840782165526,
-            "val_rmse_std": 0.006525178347067978,
+            "val_loss_mean": 0.2984362065792084,
+            "val_loss_std": 0.00808436724034819,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3824,8 +3824,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3241520285606384,
-            "val_rmse_std": 0.017715221438031798,
+            "val_loss_mean": 0.3166682183742523,
+            "val_loss_std": 0.01916885018281383,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -3892,25 +3892,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.291853141784668,
-            "val_rmse_std": 0.01365779904679205,
-            "test_accuracy_mean": 0.9122424242424243,
-            "test_accuracy_std": 0.004309427596274252,
-            "test_balanced_accuracy_mean": 0.5209333333333334,
-            "test_balanced_accuracy_std": 0.02609248508244813,
-            "test_precision_mean": 0.33999999999999997,
-            "test_precision_std": 0.4270831300812524,
-            "test_recall_mean": 0.042666666666666665,
-            "test_recall_std": 0.05293182197674456,
-            "test_f1_mean": 0.07579831932773108,
-            "test_f1_std": 0.09414825432694565,
+            "val_loss_mean": 0.2875827729701996,
+            "val_loss_std": 0.013283752826445925,
+            "test_accuracy_mean": 0.9105454545454545,
+            "test_accuracy_std": 0.002909090909090928,
+            "test_balanced_accuracy_mean": 0.5092000000000001,
+            "test_balanced_accuracy_std": 0.018400000000000014,
+            "test_precision_mean": 0.175,
+            "test_precision_std": 0.35,
+            "test_recall_mean": 0.018666666666666668,
+            "test_recall_std": 0.037333333333333336,
+            "test_f1_mean": 0.033734939759036145,
+            "test_f1_std": 0.0674698795180723,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9139393939393939,
-                    "balanced_accuracy": 0.5446666666666666,
-                    "precision": 0.7,
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.546,
+                    "precision": 0.875,
                     "recall": 0.09333333333333334,
-                    "f1": 0.16470588235294115
+                    "f1": 0.1686746987951807
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
@@ -3934,11 +3934,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.92,
-                    "balanced_accuracy": 0.56,
-                    "precision": 1.0,
-                    "recall": 0.12,
-                    "f1": 0.21428571428571425
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 }
             }
         }
@@ -3960,18 +3960,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2942913830280304,
-            "val_rmse_std": 0.010480931514166375,
-            "test_accuracy_mean": 0.911030303030303,
-            "test_accuracy_std": 0.002827128191440164,
-            "test_balanced_accuracy_mean": 0.5106666666666666,
-            "test_balanced_accuracy_std": 0.015549205052920814,
-            "test_precision_mean": 0.4,
-            "test_precision_std": 0.48989794855663565,
-            "test_recall_mean": 0.021333333333333336,
-            "test_recall_std": 0.031098410105841603,
-            "test_f1_mean": 0.040019240019240024,
-            "test_f1_std": 0.057686698713543046,
+            "val_loss_mean": 0.29564635157585145,
+            "val_loss_std": 0.01037662689093278,
+            "test_accuracy_mean": 0.9095757575757576,
+            "test_accuracy_std": 0.000969696969696976,
+            "test_balanced_accuracy_mean": 0.5146666666666666,
+            "test_balanced_accuracy_std": 0.029333333333333347,
+            "test_precision_mean": 0.10909090909090909,
+            "test_precision_std": 0.21818181818181817,
+            "test_recall_mean": 0.032,
+            "test_recall_std": 0.064,
+            "test_f1_mean": 0.049484536082474224,
+            "test_f1_std": 0.09896907216494845,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -3981,11 +3981,11 @@
                     "f1": 0.0
                 },
                 "setup-1": {
-                    "accuracy": 0.9115151515151515,
-                    "balanced_accuracy": 0.5133333333333333,
-                    "precision": 1.0,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05194805194805195
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -4002,11 +4002,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9163636363636364,
-                    "balanced_accuracy": 0.54,
-                    "precision": 1.0,
-                    "recall": 0.08,
-                    "f1": 0.14814814814814814
+                    "accuracy": 0.9115151515151515,
+                    "balanced_accuracy": 0.5733333333333334,
+                    "precision": 0.5454545454545454,
+                    "recall": 0.16,
+                    "f1": 0.24742268041237112
                 }
             }
         }
@@ -4028,8 +4028,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3056073606014252,
-            "val_rmse_std": 0.006249442616755361,
+            "val_loss_mean": 0.3022089660167694,
+            "val_loss_std": 0.007147356398851812,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4096,8 +4096,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3211639940738678,
-            "val_rmse_std": 0.0025188590576659263,
+            "val_loss_mean": 0.3210508704185486,
+            "val_loss_std": 0.0023990737905496694,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4164,18 +4164,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30069392919540405,
-            "val_rmse_std": 0.018861179066610282,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.30126129388809203,
+            "val_loss_std": 0.01900509910256011,
+            "test_accuracy_mean": 0.9103030303030302,
+            "test_accuracy_std": 0.001877810107252093,
+            "test_balanced_accuracy_mean": 0.5150666666666667,
+            "test_balanced_accuracy_std": 0.01897647666630101,
+            "test_precision_mean": 0.2511111111111111,
+            "test_precision_std": 0.31092057657587024,
+            "test_recall_mean": 0.032,
+            "test_recall_std": 0.040088790342327756,
+            "test_f1_mean": 0.056750700280112046,
+            "test_f1_std": 0.07098894754981563,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -4199,18 +4199,18 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9103030303030303,
+                    "balanced_accuracy": 0.5306666666666667,
+                    "precision": 0.5555555555555556,
+                    "recall": 0.06666666666666667,
+                    "f1": 0.11904761904761904
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5446666666666666,
+                    "precision": 0.7,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.16470588235294115
                 }
             }
         }
@@ -4232,32 +4232,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29516648650169375,
-            "val_rmse_std": 0.009526614177996724,
-            "test_accuracy_mean": 0.9119999999999999,
-            "test_accuracy_std": 0.005818181818181811,
-            "test_balanced_accuracy_mean": 0.5208,
-            "test_balanced_accuracy_std": 0.04159999999999999,
-            "test_precision_mean": 0.16,
-            "test_precision_std": 0.32,
-            "test_recall_mean": 0.04266666666666667,
-            "test_recall_std": 0.08533333333333334,
-            "test_f1_mean": 0.06736842105263158,
-            "test_f1_std": 0.13473684210526313,
+            "val_loss_mean": 0.29144681692123414,
+            "val_loss_std": 0.011887816219912854,
+            "test_accuracy_mean": 0.9095757575757576,
+            "test_accuracy_std": 0.000969696969696976,
+            "test_balanced_accuracy_mean": 0.5170666666666668,
+            "test_balanced_accuracy_std": 0.026082263023833742,
+            "test_precision_mean": 0.21000000000000002,
+            "test_precision_std": 0.25768197453450253,
+            "test_recall_mean": 0.037333333333333336,
+            "test_recall_std": 0.05681940200710005,
+            "test_f1_mean": 0.06113060428849902,
+            "test_f1_std": 0.0899233266853624,
             "test_scores": {
                 "setup-0": {
+                    "accuracy": 0.9115151515151515,
+                    "balanced_accuracy": 0.5673333333333334,
+                    "precision": 0.55,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.23157894736842105
+                },
+                "setup-1": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
-                },
-                "setup-1": {
-                    "accuracy": 0.9236363636363636,
-                    "balanced_accuracy": 0.604,
-                    "precision": 0.8,
-                    "recall": 0.21333333333333335,
-                    "f1": 0.3368421052631579
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -4275,10 +4275,10 @@
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "balanced_accuracy": 0.518,
+                    "precision": 0.5,
+                    "recall": 0.04,
+                    "f1": 0.07407407407407407
                 }
             }
         }
@@ -4300,8 +4300,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3001579999923706,
-            "val_rmse_std": 0.0061871821609628935,
+            "val_loss_mean": 0.29708552956581114,
+            "val_loss_std": 0.006934211167390599,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4368,8 +4368,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3225641429424286,
-            "val_rmse_std": 0.01889228076355245,
+            "val_loss_mean": 0.31701537370681765,
+            "val_loss_std": 0.022676104142851462,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4436,18 +4436,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29426892995834353,
-            "val_rmse_std": 0.012561772510684785,
-            "test_accuracy_mean": 0.9119999999999999,
-            "test_accuracy_std": 0.003644435485666183,
-            "test_balanced_accuracy_mean": 0.5196,
-            "test_balanced_accuracy_std": 0.02405031762322023,
-            "test_precision_mean": 0.34545454545454546,
-            "test_precision_std": 0.43179425771046975,
-            "test_recall_mean": 0.04,
-            "test_recall_std": 0.049170903772228734,
-            "test_f1_mean": 0.07135564378899603,
-            "test_f1_std": 0.08752654553860244,
+            "val_loss_mean": 0.2880369067192078,
+            "val_loss_std": 0.009253606617715807,
+            "test_accuracy_mean": 0.9107878787878787,
+            "test_accuracy_std": 0.006839629565898587,
+            "test_balanced_accuracy_mean": 0.5393333333333333,
+            "test_balanced_accuracy_std": 0.033715146612629615,
+            "test_precision_mean": 0.38275862068965516,
+            "test_precision_std": 0.3711344564709989,
+            "test_recall_mean": 0.08533333333333334,
+            "test_recall_std": 0.07234485315333619,
+            "test_f1_mean": 0.13649109511178478,
+            "test_f1_std": 0.11586143840289366,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -4457,32 +4457,32 @@
                     "f1": 0.0
                 },
                 "setup-1": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9236363636363636,
+                    "balanced_accuracy": 0.58,
+                    "precision": 1.0,
+                    "recall": 0.16,
+                    "f1": 0.2758620689655173
                 },
                 "setup-2": {
+                    "accuracy": 0.9030303030303031,
+                    "balanced_accuracy": 0.5686666666666667,
+                    "precision": 0.41379310344827586,
+                    "recall": 0.16,
+                    "f1": 0.23076923076923078
+                },
+                "setup-3": {
                     "accuracy": 0.9090909090909091,
                     "balanced_accuracy": 0.5,
                     "precision": 0.0,
                     "recall": 0.0,
                     "f1": 0.0
                 },
-                "setup-3": {
-                    "accuracy": 0.9151515151515152,
-                    "balanced_accuracy": 0.5513333333333333,
-                    "precision": 0.7272727272727273,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.186046511627907
-                },
                 "setup-4": {
-                    "accuracy": 0.9175757575757576,
-                    "balanced_accuracy": 0.5466666666666666,
-                    "precision": 1.0,
-                    "recall": 0.09333333333333334,
-                    "f1": 0.17073170731707318
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5479999999999999,
+                    "precision": 0.5,
+                    "recall": 0.10666666666666667,
+                    "f1": 0.17582417582417584
                 }
             }
         }
@@ -4504,8 +4504,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29866917729377745,
-            "val_rmse_std": 0.007917193775124622,
+            "val_loss_mean": 0.2974512577056885,
+            "val_loss_std": 0.01908704165501978,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4572,8 +4572,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2986857295036316,
-            "val_rmse_std": 0.006567653674571191,
+            "val_loss_mean": 0.294108909368515,
+            "val_loss_std": 0.004809930449396984,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4640,18 +4640,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3094321608543396,
-            "val_rmse_std": 0.0262231773614063,
-            "test_accuracy_mean": 0.911030303030303,
-            "test_accuracy_std": 0.0038787878787879034,
-            "test_balanced_accuracy_mean": 0.5106666666666666,
-            "test_balanced_accuracy_std": 0.02133333333333334,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
-            "test_recall_mean": 0.021333333333333336,
-            "test_recall_std": 0.04266666666666667,
-            "test_f1_mean": 0.03855421686746988,
-            "test_f1_std": 0.07710843373493977,
+            "val_loss_mean": 0.298430734872818,
+            "val_loss_std": 0.01869026675122527,
+            "test_accuracy_mean": 0.910060606060606,
+            "test_accuracy_std": 0.0019393939393939517,
+            "test_balanced_accuracy_mean": 0.5065333333333333,
+            "test_balanced_accuracy_std": 0.013066666666666693,
+            "test_precision_mean": 0.16666666666666669,
+            "test_precision_std": 0.33333333333333337,
+            "test_recall_mean": 0.013333333333333332,
+            "test_recall_std": 0.026666666666666665,
+            "test_f1_mean": 0.02469135802469136,
+            "test_f1_std": 0.04938271604938272,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -4675,11 +4675,11 @@
                     "f1": 0.0
                 },
                 "setup-3": {
-                    "accuracy": 0.9187878787878788,
-                    "balanced_accuracy": 0.5533333333333333,
-                    "precision": 1.0,
-                    "recall": 0.10666666666666667,
-                    "f1": 0.1927710843373494
+                    "accuracy": 0.9139393939393939,
+                    "balanced_accuracy": 0.5326666666666667,
+                    "precision": 0.8333333333333334,
+                    "recall": 0.06666666666666667,
+                    "f1": 0.1234567901234568
                 },
                 "setup-4": {
                     "accuracy": 0.9090909090909091,
@@ -4708,32 +4708,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.29577319622039794,
-            "val_rmse_std": 0.01131108784695039,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.29158486127853395,
+            "val_loss_std": 0.01637981943095402,
+            "test_accuracy_mean": 0.9110303030303031,
+            "test_accuracy_std": 0.0057674556379977236,
+            "test_balanced_accuracy_mean": 0.5430666666666666,
+            "test_balanced_accuracy_std": 0.03801660455935305,
+            "test_precision_mean": 0.34429824561403505,
+            "test_precision_std": 0.30496178912867533,
+            "test_recall_mean": 0.09333333333333334,
+            "test_recall_std": 0.08044321668799125,
+            "test_f1_mean": 0.14657210401891255,
+            "test_f1_std": 0.1268779151549985,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9066666666666666,
+                    "balanced_accuracy": 0.5646666666666667,
+                    "precision": 0.4583333333333333,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.22222222222222224
                 },
                 "setup-1": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9224242424242424,
+                    "balanced_accuracy": 0.5973333333333334,
+                    "precision": 0.7894736842105263,
+                    "recall": 0.2,
+                    "f1": 0.31914893617021284
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -4750,11 +4750,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9078787878787878,
+                    "balanced_accuracy": 0.5533333333333333,
+                    "precision": 0.47368421052631576,
+                    "recall": 0.12,
+                    "f1": 0.19148936170212763
                 }
             }
         }
@@ -4776,32 +4776,32 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.298011839389801,
-            "val_rmse_std": 0.006015877479527688,
-            "test_accuracy_mean": 0.9103030303030304,
-            "test_accuracy_std": 0.00242424242424244,
-            "test_balanced_accuracy_mean": 0.5066666666666666,
-            "test_balanced_accuracy_std": 0.01333333333333333,
-            "test_precision_mean": 0.2,
-            "test_precision_std": 0.4,
-            "test_recall_mean": 0.013333333333333332,
-            "test_recall_std": 0.026666666666666665,
-            "test_f1_mean": 0.025,
-            "test_f1_std": 0.05,
+            "val_loss_mean": 0.29547602534294126,
+            "val_loss_std": 0.010606383550142378,
+            "test_accuracy_mean": 0.9117575757575758,
+            "test_accuracy_std": 0.003288402416060757,
+            "test_balanced_accuracy_mean": 0.5278666666666666,
+            "test_balanced_accuracy_std": 0.025236305417218077,
+            "test_precision_mean": 0.5,
+            "test_precision_std": 0.4472135954999579,
+            "test_recall_mean": 0.058666666666666666,
+            "test_recall_std": 0.055039379841467444,
+            "test_f1_mean": 0.09999045437189766,
+            "test_f1_std": 0.0883431146210069,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9163636363636364,
+                    "balanced_accuracy": 0.54,
+                    "precision": 1.0,
+                    "recall": 0.08,
+                    "f1": 0.14814814814814814
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "balanced_accuracy": 0.566,
+                    "precision": 0.5,
+                    "recall": 0.14666666666666667,
+                    "f1": 0.22680412371134018
                 },
                 "setup-2": {
                     "accuracy": 0.9090909090909091,
@@ -4844,8 +4844,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3013559103012085,
-            "val_rmse_std": 0.0038187551972760072,
+            "val_loss_mean": 0.30080521702766416,
+            "val_loss_std": 0.00483866421058214,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4912,8 +4912,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.35383960604667664,
-            "val_rmse_std": 0.007902796165024399,
+            "val_loss_mean": 0.34919201135635375,
+            "val_loss_std": 0.010438102631358461,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -4980,8 +4980,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3290459454059601,
-            "val_rmse_std": 0.0067749107594293635,
+            "val_loss_mean": 0.32170337438583374,
+            "val_loss_std": 0.015341173692682819,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5048,8 +5048,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.314766937494278,
-            "val_rmse_std": 0.01862528276332527,
+            "val_loss_mean": 0.3148427248001099,
+            "val_loss_std": 0.020001454159670556,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5116,8 +5116,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3011123776435852,
-            "val_rmse_std": 0.004254723755403718,
+            "val_loss_mean": 0.30036945939064025,
+            "val_loss_std": 0.0029848852294897667,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5184,8 +5184,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.34401659965515136,
-            "val_rmse_std": 0.013370334930702365,
+            "val_loss_mean": 0.33270237445831297,
+            "val_loss_std": 0.015054696967648842,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5252,8 +5252,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.298976469039917,
-            "val_rmse_std": 0.009838513012824639,
+            "val_loss_mean": 0.30200113654136657,
+            "val_loss_std": 0.0152018445719486,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5320,18 +5320,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30352252125740053,
-            "val_rmse_std": 0.008385527181986064,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.30658596754074097,
+            "val_loss_std": 0.01858004533142048,
+            "test_accuracy_mean": 0.9083636363636364,
+            "test_accuracy_std": 0.001454545454545464,
+            "test_balanced_accuracy_mean": 0.5115999999999999,
+            "test_balanced_accuracy_std": 0.02320000000000002,
+            "test_precision_mean": 0.08695652173913043,
+            "test_precision_std": 0.17391304347826086,
+            "test_recall_mean": 0.026666666666666665,
+            "test_recall_std": 0.05333333333333333,
+            "test_f1_mean": 0.04081632653061225,
+            "test_f1_std": 0.0816326530612245,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -5362,11 +5362,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9054545454545454,
+                    "balanced_accuracy": 0.558,
+                    "precision": 0.43478260869565216,
+                    "recall": 0.13333333333333333,
+                    "f1": 0.20408163265306123
                 }
             }
         }
@@ -5388,8 +5388,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3011408030986786,
-            "val_rmse_std": 0.003612542120541372,
+            "val_loss_mean": 0.301657909154892,
+            "val_loss_std": 0.004327523618038164,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5456,8 +5456,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.33343514800071716,
-            "val_rmse_std": 0.01267066745677526,
+            "val_loss_mean": 0.329301244020462,
+            "val_loss_std": 0.017334170552878093,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5524,8 +5524,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30368049144744874,
-            "val_rmse_std": 0.0095186520361942,
+            "val_loss_mean": 0.2995970547199249,
+            "val_loss_std": 0.005141247656103231,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5592,8 +5592,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3014129102230072,
-            "val_rmse_std": 0.006474247259682977,
+            "val_loss_mean": 0.2997110188007355,
+            "val_loss_std": 0.006676012637660643,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5660,8 +5660,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30223671197891233,
-            "val_rmse_std": 0.007321176921281902,
+            "val_loss_mean": 0.2998033702373505,
+            "val_loss_std": 0.00645184293249967,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5728,8 +5728,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.34907045364379885,
-            "val_rmse_std": 0.004477633593619862,
+            "val_loss_mean": 0.34775667190551757,
+            "val_loss_std": 0.003130251802371137,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5796,8 +5796,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.32471774220466615,
-            "val_rmse_std": 0.010456405908522743,
+            "val_loss_mean": 0.31771124601364137,
+            "val_loss_std": 0.01856507838371832,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5864,8 +5864,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.31543816328048707,
-            "val_rmse_std": 0.015996099271504024,
+            "val_loss_mean": 0.3129357695579529,
+            "val_loss_std": 0.01508673352329107,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -5932,8 +5932,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3007515013217926,
-            "val_rmse_std": 0.002929472915444454,
+            "val_loss_mean": 0.30031060576438906,
+            "val_loss_std": 0.007608628866312985,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6000,8 +6000,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3145041763782501,
-            "val_rmse_std": 0.006127874177849013,
+            "val_loss_mean": 0.310507208108902,
+            "val_loss_std": 0.003939400864952916,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6068,8 +6068,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3091777801513672,
-            "val_rmse_std": 0.006745932007243527,
+            "val_loss_mean": 0.30216299891471865,
+            "val_loss_std": 0.006079084550755478,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6136,8 +6136,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3064424395561218,
-            "val_rmse_std": 0.008123205585330784,
+            "val_loss_mean": 0.30083589553833007,
+            "val_loss_std": 0.009803117443585243,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6204,76 +6204,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.2974613070487976,
-            "val_rmse_std": 0.006267126059399163,
-            "test_accuracy_mean": 0.9093333333333332,
-            "test_accuracy_std": 0.000484848484848488,
-            "test_balanced_accuracy_mean": 0.5025333333333333,
-            "test_balanced_accuracy_std": 0.0050666666666666854,
-            "test_precision_mean": 0.13333333333333333,
-            "test_precision_std": 0.26666666666666666,
-            "test_recall_mean": 0.005333333333333334,
-            "test_recall_std": 0.010666666666666668,
-            "test_f1_mean": 0.010256410256410258,
-            "test_f1_std": 0.020512820512820513,
-            "test_scores": {
-                "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
-                },
-                "setup-1": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
-                },
-                "setup-2": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
-                },
-                "setup-3": {
-                    "accuracy": 0.9103030303030303,
-                    "balanced_accuracy": 0.5126666666666667,
-                    "precision": 0.6666666666666666,
-                    "recall": 0.02666666666666667,
-                    "f1": 0.05128205128205129
-                },
-                "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
-                }
-            }
-        }
-    },
-    "combination-92": {
-        "hps": {
-            "combination_idx": 92,
-            "maxlen": 85,
-            "vocab_size": 50,
-            "n_layers": 3,
-            "kernel_size": 5,
-            "n_filters": 128,
-            "dense_layer_size": 64,
-            "dropout": 0.25,
-            "learning_rate": 0.0001,
-            "batch_size": 32,
-            "embedding_dim": 50,
-            "embedding_type": "onehot",
-            "is_regressor": false
-        },
-        "misc": {
-            "val_loss_mean": 0.3181876540184021,
-            "val_rmse_std": 0.01837372653053383,
+            "val_loss_mean": 0.30102781653404237,
+            "val_loss_std": 0.006511104503015302,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6323,6 +6255,74 @@
             }
         }
     },
+    "combination-92": {
+        "hps": {
+            "combination_idx": 92,
+            "maxlen": 85,
+            "vocab_size": 50,
+            "n_layers": 3,
+            "kernel_size": 5,
+            "n_filters": 128,
+            "dense_layer_size": 64,
+            "dropout": 0.25,
+            "learning_rate": 0.0001,
+            "batch_size": 32,
+            "embedding_dim": 50,
+            "embedding_type": "onehot",
+            "is_regressor": false
+        },
+        "misc": {
+            "val_loss_mean": 0.31460139751434324,
+            "val_loss_std": 0.01991488523208476,
+            "test_accuracy_mean": 0.9098181818181817,
+            "test_accuracy_std": 0.0014545454545454638,
+            "test_balanced_accuracy_mean": 0.5076,
+            "test_balanced_accuracy_std": 0.015200000000000014,
+            "test_precision_mean": 0.13333333333333333,
+            "test_precision_std": 0.26666666666666666,
+            "test_recall_mean": 0.016,
+            "test_recall_std": 0.032,
+            "test_f1_mean": 0.02857142857142857,
+            "test_f1_std": 0.05714285714285714,
+            "test_scores": {
+                "setup-0": {
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
+                },
+                "setup-1": {
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
+                },
+                "setup-2": {
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
+                },
+                "setup-3": {
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.538,
+                    "precision": 0.6666666666666666,
+                    "recall": 0.08,
+                    "f1": 0.14285714285714285
+                },
+                "setup-4": {
+                    "accuracy": 0.9090909090909091,
+                    "balanced_accuracy": 0.5,
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
+                }
+            }
+        }
+    },
     "combination-93": {
         "hps": {
             "combination_idx": 93,
@@ -6340,8 +6340,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3099726676940918,
-            "val_rmse_std": 0.0173753323311851,
+            "val_loss_mean": 0.2991348445415497,
+            "val_loss_std": 0.0053363958870347875,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6408,8 +6408,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3027401030063629,
-            "val_rmse_std": 0.006087186022361996,
+            "val_loss_mean": 0.3013161957263947,
+            "val_loss_std": 0.0060172891796161825,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6476,8 +6476,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30413406491279604,
-            "val_rmse_std": 0.004480784980264621,
+            "val_loss_mean": 0.30523345470428465,
+            "val_loss_std": 0.005527000598118815,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6544,8 +6544,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.34074113368988035,
-            "val_rmse_std": 0.004374199280933433,
+            "val_loss_mean": 0.3406039297580719,
+            "val_loss_std": 0.0031159222379754247,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6612,8 +6612,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3200305163860321,
-            "val_rmse_std": 0.014895755149834874,
+            "val_loss_mean": 0.31689844727516175,
+            "val_loss_std": 0.017161379365849435,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6680,18 +6680,18 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30547197461128234,
-            "val_rmse_std": 0.005962720569183404,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.30508834719657896,
+            "val_loss_std": 0.004938162864855077,
+            "test_accuracy_mean": 0.9086060606060606,
+            "test_accuracy_std": 0.0009696969696969759,
+            "test_balanced_accuracy_mean": 0.5081333333333333,
+            "test_balanced_accuracy_std": 0.01626666666666665,
+            "test_precision_mean": 0.0875,
+            "test_precision_std": 0.175,
+            "test_recall_mean": 0.018666666666666668,
+            "test_recall_std": 0.037333333333333336,
+            "test_f1_mean": 0.030769230769230764,
+            "test_f1_std": 0.06153846153846153,
             "test_scores": {
                 "setup-0": {
                     "accuracy": 0.9090909090909091,
@@ -6722,11 +6722,11 @@
                     "f1": 0.0
                 },
                 "setup-4": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9066666666666666,
+                    "balanced_accuracy": 0.5406666666666666,
+                    "precision": 0.4375,
+                    "recall": 0.09333333333333334,
+                    "f1": 0.15384615384615383
                 }
             }
         }
@@ -6748,8 +6748,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3017379641532898,
-            "val_rmse_std": 0.005972619069113931,
+            "val_loss_mean": 0.2981836974620819,
+            "val_loss_std": 0.0052580740173193054,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6816,8 +6816,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.32634295225143434,
-            "val_rmse_std": 0.016087029422245124,
+            "val_loss_mean": 0.32463095188140867,
+            "val_loss_std": 0.01761530183051001,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6884,8 +6884,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.31836519837379457,
-            "val_rmse_std": 0.019710928352573924,
+            "val_loss_mean": 0.31272721886634824,
+            "val_loss_std": 0.019353279100795352,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -6952,8 +6952,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3021351873874664,
-            "val_rmse_std": 0.010844711520421412,
+            "val_loss_mean": 0.30055839419364927,
+            "val_loss_std": 0.00827831983855417,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -7020,8 +7020,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30431956648826597,
-            "val_rmse_std": 0.0054743414075709654,
+            "val_loss_mean": 0.3012436211109161,
+            "val_loss_std": 0.004090860875399677,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -7088,8 +7088,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.31469284892082217,
-            "val_rmse_std": 0.0109551793081051,
+            "val_loss_mean": 0.3088782489299774,
+            "val_loss_std": 0.013675931554149362,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -7156,8 +7156,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3067112326622009,
-            "val_rmse_std": 0.018224327009608708,
+            "val_loss_mean": 0.30809963345527647,
+            "val_loss_std": 0.018513965294353642,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -7224,8 +7224,8 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.3025773882865906,
-            "val_rmse_std": 0.005753249383421261,
+            "val_loss_mean": 0.30126782059669494,
+            "val_loss_std": 0.007487057661163976,
             "test_accuracy_mean": 0.909090909090909,
             "test_accuracy_std": 1.1102230246251565e-16,
             "test_balanced_accuracy_mean": 0.5,
@@ -7292,25 +7292,25 @@
             "is_regressor": false
         },
         "misc": {
-            "val_loss_mean": 0.30274857878684996,
-            "val_rmse_std": 0.003893133543580359,
-            "test_accuracy_mean": 0.909090909090909,
-            "test_accuracy_std": 1.1102230246251565e-16,
-            "test_balanced_accuracy_mean": 0.5,
-            "test_balanced_accuracy_std": 0.0,
-            "test_precision_mean": 0.0,
-            "test_precision_std": 0.0,
-            "test_recall_mean": 0.0,
-            "test_recall_std": 0.0,
-            "test_f1_mean": 0.0,
-            "test_f1_std": 0.0,
+            "val_loss_mean": 0.29746053814888,
+            "val_loss_std": 0.009279397778991014,
+            "test_accuracy_mean": 0.9098181818181817,
+            "test_accuracy_std": 0.0014545454545454638,
+            "test_balanced_accuracy_mean": 0.5076,
+            "test_balanced_accuracy_std": 0.015200000000000016,
+            "test_precision_mean": 0.13333333333333333,
+            "test_precision_std": 0.26666666666666666,
+            "test_recall_mean": 0.016,
+            "test_recall_std": 0.032,
+            "test_f1_mean": 0.02857142857142857,
+            "test_f1_std": 0.05714285714285714,
             "test_scores": {
                 "setup-0": {
-                    "accuracy": 0.9090909090909091,
-                    "balanced_accuracy": 0.5,
-                    "precision": 0.0,
-                    "recall": 0.0,
-                    "f1": 0.0
+                    "accuracy": 0.9127272727272727,
+                    "balanced_accuracy": 0.538,
+                    "precision": 0.6666666666666666,
+                    "recall": 0.08,
+                    "f1": 0.14285714285714285
                 },
                 "setup-1": {
                     "accuracy": 0.9090909090909091,

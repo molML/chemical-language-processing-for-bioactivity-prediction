@@ -1,0 +1,9 @@
+excape
+Friedman test statistic: 32.28000000000003, p-value: 4.5684828740529473e-07
+p-values (with Holm-Bonferroni correction)
+CNN vs GRU: 0.06670159101486206
+CNN vs Transformer: 6.407499313354492e-06
+CNN vs XGBoost: 4.470348358154297e-06
+GRU vs Transformer: 0.00032460689544677734
+GRU vs XGBoost: 0.01210319995880127
+Transformer vs XGBoost: 0.9803306460380554
