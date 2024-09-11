@@ -1,6 +1,6 @@
 # A Hitchhiker's Guide to Deep Chemical Language Processing for Bioactivity Prediction
 
-:thumbsdown: :oncoming_automobile: :stop_sign: :oncoming_automobile: 
+:thumbsup: :oncoming_automobile: :stop_sign: :oncoming_automobile: 
 
 Jump on board hitchhiker!
 
