@@ -9,7 +9,7 @@ Welcome to our galaxy, tha galaxy of deep chemical language processing (`deepclp
 This guide walks you through the steps of training a bioactivity prediction model, *i.e.,* predicting the binding between a small molecule and a target protein, using `deepclp`. By the end, you will able to train and evaluate bioactivity prediction models across different representations, encodings, and architectures with minimal code. Because this is what the `deepclp` galaxy is all about!
 
 
-We have already trained quite a few such models, compared them, and shared our insights. If you want to read into them, check out our [paper](https://arxiv.org/abs/2407.12152) :bookmark:
+We have already trained quite a few such models, compared them, and shared our insights. If you want to read into them, check out our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00311j) :bookmark:
 
 ## :school_satchel: Packing the Bag
 Hitchhikers rely extensively on their gadgets. So will you.
@@ -181,10 +181,11 @@ If you have any questions, suggestions, or feedback, please let us know in the i
 If you end up using `deepclp` in your research, please don't forget us :people_holding_hands:
 
 ```bibtex
-@article{ozccelik2024hitchhiker,
-  title={A Hitchhiker's Guide to Deep Chemical Language Processing for Bioactivity Prediction},
+@article{ozccelik2025hitchhiker,
+  title={A hitchhiker's guide to deep chemical language processing for bioactivity prediction},
   author={{\"O}z{\c{c}}elik, R{\i}za and Grisoni, Francesca},
-  journal={arXiv preprint arXiv:2407.12152},
-  year={2024}
+  journal={Digital Discovery},
+  year={2025},
+  publisher={Royal Society of Chemistry}
 }
 ```
